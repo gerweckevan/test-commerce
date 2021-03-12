@@ -15,6 +15,7 @@ mongoose.connect(env === "development" ? config.DB_URI_DEV : config.DB_URI, {
   useUnifiedTopology: true,
   useNewUrlParser: true,
   useFindAndModify: false,
+  useCreateIndex: true
 });
 
 const app = express();
