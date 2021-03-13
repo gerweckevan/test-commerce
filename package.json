@@ -7,10 +7,10 @@
     "start": "NODE_ENV=production && npm run start:prod",
     "start:dev": "concurrently \"nodemon --ignore 'client/*'\" \"npm run client\"",
     "start:prod": "node index.js",
-    "heroku-postbuild": "cd client && yarn && yarn run build",
-    "client": "cd client && yarn start",
+    "heroku-postbuild": "cd client && npm i && npm run build",
+    "client": "cd client && npm run start",
     "server": "nodemon index.js",
-    "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\""
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
   },
   "dependencies": {
     "axios": "^0.21.1",
