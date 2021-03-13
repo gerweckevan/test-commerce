@@ -13,8 +13,6 @@
     "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
   },
   "dependencies": {
-    "@babel/core": "^7.13.10",
-    "@babel/preset-env": "^7.13.10",
     "axios": "^0.21.1",
     "bcrypt-nodejs": "0.0.3",
     "body-parser": "1.18.3",
@@ -49,6 +47,8 @@
     "reselect": "^4.0.0"
   },
   "devDependencies": {
+    "@babel/core": "^7.13.10",
+    "@babel/preset-env": "^7.13.10",
     "@types/dotenv": "^8.2.0",
     "concurrently": "^6.0.0",
     "nodemon": "1.18.4"
