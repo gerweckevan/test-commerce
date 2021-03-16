@@ -36,11 +36,10 @@ const items = [
     },
   },
   {
-    src:
-      "https://drive.google.com/file/d/1tzRq5BTDppqGHdi5nXxEGO-1HV5e6Msf/view?usp=sharing",
+    src: "https://giphy.com/clips/Togethxr-togethxr-lW8XxDIKEIxb4gKbbq",
     altText: "Slide 3",
     caption: "Slide 3",
-    title: "Nice for everyone",
+    title: "Clothes for everyone",
     subtitle: "Amazing clothes!",
     btn: {
       content: "Go to the collection",
