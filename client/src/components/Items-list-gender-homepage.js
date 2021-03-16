@@ -31,22 +31,22 @@ const styles = {
 
 const categoriesMenData = [
   {
-    imgSrc: "../img/A1-P1.png",
+    imgSrc: "../img/A1-P1.jpg",
     cardTitle: 'Polos',
     linkCategory: 'Polos'
   },
   {
-    imgSrc: "../img/A1-P5.png",
+    imgSrc: "../img/A1-P5.jpg",
     cardTitle: 'Shirts',
     linkCategory: 'Shirts'
   },
   {
-    imgSrc: '../img/A2-P10.png',
+    imgSrc: '../img/A2-P10.jpg',
     cardTitle: 'Pants',
     linkCategory: 'Pants'
   },
   {
-    imgSrc: "../img/A2-P12.png",
+    imgSrc: "../img/A2-P12.jpg",
     cardTitle: 'Jackets',
     linkCategory: 'Jackets'
   }

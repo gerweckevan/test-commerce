@@ -8,7 +8,7 @@
         "M"
     ],
     "images": [
-        "../img/A2-P5.png"
+        "../img/A2-P5.jpg"
     ],
     "rating": 5,
     "description": "The 14x11 print of the Leo sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
@@ -34,7 +34,7 @@
         "M"
     ],
     "images": [
-        "../img/A2-P2.png"
+        "../img/A2-P2.jpg"
     ],
     "rating": 5,
     "description": "The 14x11 print of the Taurus sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
@@ -60,7 +60,7 @@
         "M"
     ],
     "images": [
-        "../img/A2-P3.png"
+        "../img/A2-P3.jpg"
     ],
     "rating": 5,
     "description": "This 14x11 print of the Gemini sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
@@ -85,7 +85,9 @@
     "size": [
         "M"
     ],
-    "images": "../img/A2-P6.png",
+    "images": [
+        "../img/A2-P6.jpg",
+    ]
     "rating": "5",
     "description": "The 14x11 print of the Virgo sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
@@ -110,7 +112,7 @@
         "M"
     ],
     "images": [
-        "../img/A2-P4.png"
+        "../img/A2-P4.jpg"
     ],
     "rating": 5,
     "description": "This 14x11 print of the Cancer sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
@@ -137,7 +139,7 @@
         "M"
     ],
     "images": [
-        "../img/A2-P8.png",
+        "../img/A2-P8.jpg",
     ],
     "rating": 5,
     "description": "The 14x11 Scorpio print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
@@ -162,7 +164,9 @@
     "size": [
         "M"
     ],
-    "images": "../img/A2png",
+    "images": [
+        "../img/A2.jpg"
+    ],
     "rating": 5,
     "description": "The 14x11 print of the Libra sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
@@ -187,7 +191,7 @@
         "M"
     ],
     "images": [
-        "../img/A2-P1.png"
+        "../img/A2-P1.jpg"
     ],
     "rating": 5,
     "description": "The 14x11 print of the Aries sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
@@ -213,7 +217,7 @@
         "M"
     ],
     "images": [
-        "../img/A2-P11.png"
+        "../img/A2-P11.jpg"
     ],
     "rating": 5,
     "description": "The Aquarius print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
@@ -239,7 +243,7 @@
         "M"
     ],
     "images": [
-        "../img/A1-P7.png"
+        "../img/A1-P7.jpg"
     ],
     "rating": 5,
     "description": "This 14x11 print hero is the wizard of weed.  This print will be a great addition to anyones art collection.",
@@ -261,7 +265,7 @@
         "M"
     ],
     "images": [
-        "../img/A1-P9.png"
+        "../img/A1-P9.jpg"
     ],
     "rating": 5,
     "description": "This 14x11 print of a monkey spins his music while smoking creating some jams that people are ready to enjoy.  This print will be a great addition to anyones art collection.",
@@ -336,7 +340,7 @@
         "M"
     ],
     "images": [
-        "../img/A1-P8.png"
+        "../img/A1-P8.jpg"
     ],
     "rating": 5,
     "description": "A 14x11 print of Foxy Roxy the queen of weed is working late in the night entertaining clients.  This print will be a great addition to anyones art collection.",
@@ -386,7 +390,7 @@
         "M"
     ],
     "images": [
-        "../img/A1-P5.png"
+        "../img/A1-P5.jpg"
     ],
     "rating": 5,
     "description": "This 14x11 print of beautiful woman baking some edibles. With a flag in her and and a muffin on her head she is ready to realax.  This print will be a great addition to anyones art collection.",
@@ -414,7 +418,7 @@
         "M"
     ],
     "images": [
-        "../img/A1-P4.png"
+        "../img/A1-P4.jpg"
     ],
     "rating": 5,
     "description": "This 14x11 print of a cackling hyena smoking some weed on a tropical island.  This print will be a great addition to anyones art collection.",
@@ -811,7 +815,7 @@
         "M"
     ],
     "images": [
-        "../img/A1-P2.png"
+        "../img/A1-P2.jpg"
     ],
     "rating": 5,
     "description": "This 14x11 print of a chillin goat is mowing a lawn of weed, while smoking. This will be a great addition to anyones art collection.",
@@ -834,7 +838,9 @@
     "size": [
         "M"
     ],
-    "images": "../img/A1-P3.png",
+    "images": [
+        "../img/A1-P3.jpg"
+    ],
     "rating": 5,
     "description": "This 14x11 print of a colorful camping panda that is smoking some weed  will be a great addition to anyones are collection.",
     "tags": [
@@ -858,7 +864,7 @@
         "M"
     ],
     "images": [
-        "../img/A1-P1.png"
+        "../img/A1-P1.jpg"
     ],
     "rating": 5,
     "description": "This 14x11 print of a grining gator skating on his skateboard while smoking some weed. It will be a great addition to anyones are collection.",
