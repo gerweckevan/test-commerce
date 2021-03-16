@@ -17,7 +17,7 @@ const styles = {
   textBanner: {
     textShadow: "3px 3px 3px grey",
     textAlign: 'center',
-    color:'white'
+    color: 'white'
   },
   centerButtons: {
     textAlign: 'center',
@@ -34,8 +34,8 @@ const styles = {
 const { bannerCoverPc, bannerCoverMobile, textBanner, centerButtons, titleH1Mobile, titleH1Pc } = styles
 
 const HeroBanner = () => (
-  <Jumbotron fluid style={isMobile? bannerCoverMobile : bannerCoverPc}>
-    <Container fluid style={{height: '300px'}}>
+  <Jumbotron fluid style={isMobile ? bannerCoverMobile : bannerCoverPc}>
+    <Container fluid style={{ height: '300px' }}>
       <div style={textBanner}>
         <h1 className="display-3" style={isMobile ? titleH1Mobile : titleH1Pc}>Fashion shop</h1>
         <p>Cool shop</p>

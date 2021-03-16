@@ -5,19 +5,19 @@ import ItemsListBanner from './Items-list-banner';
 import Breadcrumbs from './Breadcrumbs';
 import ItemsListSidebar from './Items-list-sidebar';
 import Paginator from './Paginator';
-import EachItemInList from './Each-item-in-list'; 
+import EachItemInList from './Each-item-in-list';
 import LoadingGif from './Loading-gif';
 import ButtonLinkGenderPage from './Button-link-gender-page'
-import { 
+import {
   Container,
   Row,
   Col
 } from 'reactstrap';
 
 const propTypes = {
-  listIsLoading: PropTypes.bool.isRequired, 
-  FilteredSortedList: PropTypes.array.isRequired, 
-  keywordsForFilter: PropTypes.array.isRequired, 
+  listIsLoading: PropTypes.bool.isRequired,
+  FilteredSortedList: PropTypes.array.isRequired,
+  keywordsForFilter: PropTypes.array.isRequired,
   oneKeywordForFilter: PropTypes.func.isRequired,
   currentPageHandler: PropTypes.func.isRequired,
   currentPage: PropTypes.number.isRequired,
@@ -51,7 +51,7 @@ const styles = {
 };
 
 const ItemsList = ({
-  match, 
+  match,
   listIsLoading,
   FilteredSortedList,
   keywordsForFilter,
@@ -75,32 +75,32 @@ const ItemsList = ({
 
   const loading_logic = listIsLoading && <LoadingGif />;
 
-  const pagination = Math.ceil(listLength/itemsMaxPage)>1 ? 
-    (<Paginator  
-      maxPages={Math.ceil(listLength/itemsMaxPage)} 
-      currentPage={currentPage} 
-      itemsMaxPage={itemsMaxPage} 
+  const pagination = Math.ceil(listLength / itemsMaxPage) > 1 ?
+    (<Paginator
+      maxPages={Math.ceil(listLength / itemsMaxPage)}
+      currentPage={currentPage}
+      itemsMaxPage={itemsMaxPage}
       onPageChange={currentPageHandler}
-    />) : 
-    currentPage > 1 && (()=> currentPageHandler('empty'))()
+    />) :
+    currentPage > 1 && (() => currentPageHandler('empty'))()
 
 
 
-  const itemsListByGender_logic = 
-    
+  const itemsListByGender_logic =
+
     <Col md={{ size: 9, order: 1 }}>
       {listIsLoading === false && <i>Results: {listLength}</i>}
-      {FilteredSortedList.length === 0 && listIsLoading === false && 
-      <div style={{ display: 'flex', alignItems: 'center'}}>
-        <h2><i>Select a category: </i> </h2>
-        <ButtonLinkGenderPage gender='men'/>
-        <ButtonLinkGenderPage gender='women'/>
-      </div>}
+      {FilteredSortedList.length === 0 && listIsLoading === false &&
+        <div style={{ display: 'flex', alignItems: 'center' }}>
+          <h2><i>Select a category: </i> </h2>
+          <ButtonLinkGenderPage gender='merchandise' />
+          <ButtonLinkGenderPage gender='artwork' />
+        </div>}
 
       <Row>
         {loading_logic} {/* if list is loading show loader */}
-        <EachItemInList 
-          FilteredSortedList={FilteredSortedList} 
+        <EachItemInList
+          FilteredSortedList={FilteredSortedList}
           currentPage={currentPage}
           itemsMaxPage={itemsMaxPage}
           currentPageHandler={currentPageHandler}
@@ -110,11 +110,11 @@ const ItemsList = ({
       {pagination}
     </Col>;
 
-    const sideBar =  isBrowser &&
+  const sideBar = isBrowser &&
     <Col md="3" xs='12'>
       <Row>
-        <ItemsListSidebar 
-          keywordsForFilter={keywordsForFilter} 
+        <ItemsListSidebar
+          keywordsForFilter={keywordsForFilter}
           dispatchSize={dispatchSize}
           sortSizeForFilter={sortSizeForFilter}
           keywordsSelectAction={keywordsSelectAction}
@@ -131,19 +131,19 @@ const ItemsList = ({
 
   return (
     <div>
-      <ItemsListBanner 
-        gender={gender} 
+      <ItemsListBanner
+        gender={gender}
         reducerPriceRangeFilter={reducerPriceRangeFilter}
         sortSizeForFilter={sortSizeForFilter}
         keywordsForFilter={keywordsForFilter}
         sortArgsForFilter={sortArgsForFilter}
       />
-      <Breadcrumbs 
-        selectedCategory={keywordsForFilter} 
+      <Breadcrumbs
+        selectedCategory={keywordsForFilter}
         keywordsForFilter={keywordsForFilter}
-        sortArgsForFilter = {sortArgsForFilter}
-        dispatchToSortList = {dispatchToSortList}
-        gender={gender} 
+        sortArgsForFilter={sortArgsForFilter}
+        dispatchToSortList={dispatchToSortList}
+        gender={gender}
         backgroundColor={'#072a48'}
         textColor={'white'}
         marginTop={-34}
