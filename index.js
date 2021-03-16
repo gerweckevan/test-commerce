@@ -8,6 +8,7 @@ require("dotenv").config();
 require("./services/passport.js");
 const compression = require("compression");
 const config = require("./config.js");
+console.log(config);
 
 const env = process.env.NODE_ENV || "development";
 
@@ -15,7 +16,10 @@ mongoose.connect(env === "development" ? config.DB_URI_DEV : config.DB_URI, {
   useUnifiedTopology: true,
   useNewUrlParser: true,
   useFindAndModify: false,
-  useCreateIndex: true
+  useCreateIndex: true,
+});
+mongoose.connection.on("connected", () => {
+  console.log("mongoose is connected");
 });
 
 const app = express();
