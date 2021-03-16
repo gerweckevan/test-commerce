@@ -21,7 +21,7 @@ mongoose.connect(env === "development" ? config.DB_URI_DEV : config.DB_URI, {
 mongoose.connection.on("connected", () => {
   console.log("mongoose is connected");
 });
-
+mongoose.connection.on('')
 const app = express();
 app.use(compression());
 
