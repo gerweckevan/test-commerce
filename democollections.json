@@ -13,7 +13,7 @@
     "rating": 5,
     "description": "The 14x11 print of the Leo sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
-        "Polos"
+        "Pants"
     ],
     "color": [
         "green",
@@ -65,7 +65,7 @@
     "rating": 5,
     "description": "This 14x11 print of the Gemini sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
-        "Pants"
+        "Polos"
     ],
     "color": [
         "green",
@@ -136,7 +136,9 @@
     "size": [
         "M"
     ],
-    "images": "../img/A2-P8.png",
+    "images": [
+        "../img/A2-P8.png",
+    ],
     "rating": 5,
     "description": "The 14x11 Scorpio print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
@@ -814,7 +816,7 @@
     "rating": 5,
     "description": "This 14x11 print of a chillin goat is mowing a lawn of weed, while smoking. This will be a great addition to anyones art collection.",
     "tags": [
-        "shirts"
+        "Shirts"
     ],
     "color": [
         "green",
@@ -836,7 +838,7 @@
     "rating": 5,
     "description": "This 14x11 print of a colorful camping panda that is smoking some weed  will be a great addition to anyones are collection.",
     "tags": [
-        "Shirts"
+        "Polos"
     ],
     "color": [
         "green",
