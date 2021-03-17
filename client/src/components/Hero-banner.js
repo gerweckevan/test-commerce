@@ -43,9 +43,9 @@ const HeroBanner = () => (
     <Container fluid style={{ height: "300px" }}>
       <div style={textBanner}>
         <h1 className="display-3" style={isMobile ? titleH1Mobile : titleH1Pc}>
-          Fashion shop
+          Creative Artist Design
         </h1>
-        <p>Cool shop</p>
+        <p>T.O.T.W.</p>
       </div>
       <div style={centerButtons}>
         <ButtonLinkGenderPage gender={"men"} content="Artwork" />
