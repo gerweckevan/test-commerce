@@ -14,27 +14,27 @@ const Footer = () => (
     <Container>
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingBottom: "30px" }}>
-          <b>Your footer</b>
+          <b>Welcome</b>
         </Col>
       </Row>
       <Row>
-        <Col md="4">About the brand</Col>
-        <Col md="4">Career</Col>
-        <Col md="4">Instagram</Col>
+        <Col md="4">TOTW -Take Over The World</Col>
+        <Col md="4">Creative Artist Design</Col>
+        <Col md="4">We sell the best merchandise and artwork.</Col>
       </Row>
       <Row>
-        <Col md="4">Order status</Col>
-        <Col md="4">Our ecological actions</Col>
-        <Col md="4">Facebook</Col>
+        <Col md="4"></Col>
+        <Col md="4"></Col>
+        <Col md="4"></Col>
       </Row>
       <Row>
-        <Col md="4">Contact us</Col>
-        <Col md="4">I like Som tum</Col>
-        <Col md="4">Pinterest</Col>
+        <Col md="4"></Col>
+        <Col md="4">Shop now and see our collections</Col>
+        <Col md="4"></Col>
       </Row>
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingTop: "30px" }}>
-          Copyright your website © 2021 All Rights Reserved
+          Creative Artist Design © 2021 All Rights Reserved
         </Col>
       </Row>
     </Container>
