@@ -2,291 +2,282 @@
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac5e"
     },
-    "title": "Polo red",
-    "price": 50,
+    "title": "12 Zodiac Leo",
+    "price": 35,
     "size": [
-        "XL",
-        "L",
-        "M",
-        "S",
-        "XS"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/source-img/20160603190149_72043.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/thumb-img/1464923952674675109.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/thumb-img/1464923952389433115.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/thumb-img/1464923952939170654.jpg"
+        "../img/A2-P5.jpg"
     ],
-    "rating": 4,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "The 14x11 print of the Leo sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
-        "Polos"
+        "Pants"
     ],
     "color": [
-        "red"
+        "green",
+        "red",
+        "brown",
+        "black",
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac5f"
     },
-    "title": "Yellow pant",
-    "price": 6,
+    "title": "12 Zodiac Taurus",
+    "price": 35,
     "size": [
-        "XS",
-        "L"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720200455_27922.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720200455_35871.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720200455_67554.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720200455_52289.jpg"
+        "../img/A2-P2.jpg"
     ],
-    "rating": 3,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "The 14x11 print of the Taurus sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
         "Pants"
     ],
     "color": [
-        "yellow"
+        "green",
+        "red",
+        " brown",
+        "yellow",
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac60"
     },
-    "title": "Blue \u0026 yellow pant",
-    "price": 66,
+    "title": "12 Zodiac Gemini",
+    "price": 35,
     "size": [
-        "XS",
-        "M",
-        "L"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/25/source-img/20180725172558_32423.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/25/source-img/20180725172558_38854.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/25/source-img/20180725172558_59140.jpg"
+        "../img/A2-P3.jpg"
     ],
-    "rating": 3.5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "This 14x11 print of the Gemini sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
-        "Pants"
+        "Polos"
     ],
     "color": [
-        "yellow",
-        "blue"
+        "green",
+        "red",
+        " brown",
+        "black",
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac61"
     },
-    "title": "Dark blue jean",
-    "price": 20,
+    "title": "12 Zodiac Virgo",
+    "price": 35,
     "size": [
-        "XS",
-        "L"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720161510_63076.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720161510_46741.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720161510_77977.jpg"
-    ],
-    "rating": 0.5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "../img/A2-P6.jpg",
+    ]
+    "rating": "5",
+    "description": "The 14x11 print of the Virgo sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
         "Pants"
     ],
     "color": [
-        "blue"
+        "green",
+        "red",
+        " brown",
+        "black",
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac62"
     },
-    "title": "Blue cotton jacket",
-    "price": 110,
+    "title": "12 Zodiac Cancer",
+    "price": 35,
     "size": [
-        "XL",
-        "XS",
-        "M",
-        "L"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/30/source-img/20171030165524_57809.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/30/source-img/20171030165524_96044.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/30/source-img/20171030165524_11220.jpg"
+        "../img/A2-P4.jpg"
     ],
-    "rating": 4.5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "This 14x11 print of the Cancer sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
         "Jackets"
     ],
     "color": [
-        "blue",
-        "white"
+        "green",
+        "red",
+        " brown",
+        "black",
+        "orange",
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac63"
     },
-    "title": "Modern art shirt",
-    "price": 10,
+    "title": "12 Zodiac Scorpio",
+    "price": 35,
     "size": [
-        "XL",
-        "L",
-        "XS"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/03/source-img/20180803155617_93798.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/03/source-img/20180803155617_76669.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/03/source-img/20180803155617_41853.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/03/source-img/20180803155616_96061.jpg"
+        "../img/A2-P8.jpg",
     ],
     "rating": 5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "description": "The 14x11 Scorpio print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
         "Shirts"
     ],
     "color": [
-        "yellow",
-        "blue",
-        "purple",
-        "green"
+        "green",
+        "red",
+        " brown",
+        "black",
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac64"
     },
-    "title": "Black cotton jacket",
-    "price": 110,
+    "title": "12 Zodiac Libra",
+    "price": 35,
     "size": [
-        "XL",
-        "XS",
-        "M",
-        "L"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_91772.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_14734.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_85675.jpg"
+        "../img/A2.jpg"
     ],
-    "rating": 4.5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "The 14x11 print of the Libra sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
         "Jackets"
     ],
     "color": [
+        "green",
+        "red",
+        " brown",
         "black",
-        "grey"
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac65"
     },
-    "title": "Blazer black",
-    "price": 65,
+    "title": "12 Zodiac Aries",
+    "price": 35,
     "size": [
-        "XL",
-        "XS",
-        "L"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/25/source-img/20160725122041_81042.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_14734.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_85675.jpg"
+        "../img/A2-P1.jpg"
     ],
-    "rating": 4.5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "The 14x11 print of the Aries sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
         "Jackets"
     ],
     "color": [
+        "green",
+        "red",
+        " brown",
         "black",
-        "grey"
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac66"
     },
-    "title": "Blazer christmas",
-    "price": 65,
+    "title": "12 Zodiac Aquarius",
+    "price": 35,
     "size": [
-        "XL",
-        "L",
         "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026104800_75333.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026104801_37889.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026104801_46431.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026104802_95255.jpg"
+        "../img/A2-P11.jpg"
     ],
-    "rating": 4,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "The Aquarius print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
     "tags": [
         "Jackets"
     ],
     "color": [
+        "green",
         "red",
-        "grey"
+        " brown",
+        "black",
+        "white",
+        "purple"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac67"
     },
-    "title": "Blazer grey",
-    "price": 65,
+    "title": "Wizard of Weed",
+    "price": 35,
     "size": [
-        "XL",
-        "L",
-        "XS"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/11/01/source-img/20161101165944_84994.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/11/01/source-img/20161101165944_46584.jpg"
+        "../img/A1-P7.jpg"
     ],
-    "rating": 4.5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "This 14x11 print hero is the wizard of weed.  This print will be a great addition to anyones art collection.",
     "tags": [
         "Jackets"
     ],
     "color": [
-        "black",
-        "grey"
+        "yellow",
+        "black"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac68"
     },
-    "title": "Blazer party grey",
-    "price": 65,
+    "title": "Banana Kush",
+    "price": 35,
     "size": [
-        "XL",
-        "L",
         "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/13/source-img/20161013153000_23902.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/13/source-img/20161013153000_46494.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/13/source-img/20161013153000_83861.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/13/source-img/20161013153000_27628.jpg"
+        "../img/A1-P9.jpg"
     ],
-    "rating": 4.5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "This 14x11 print of a monkey spins his music while smoking creating some jams that people are ready to enjoy.  This print will be a great addition to anyones art collection.",
     "tags": [
         "Jackets"
     ],
     "color": [
+        "green",
         "red",
-        "grey"
+        " brown",
+        "black",
+        "white"
     ]
 }
 {
@@ -343,25 +334,26 @@
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac6b"
     },
-    "title": "Floral vintage shirt",
-    "price": 20,
+    "title": "Foxy Roxy Working",
+    "price": 35,
     "size": [
-        "XL",
-        "L",
-        "S"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/03/01/source-img/20160301102035_69373.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/03/01/source-img/20160301102036_39390.jpg"
+        "../img/A1-P8.jpg"
     ],
-    "rating": 4,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "A 14x11 print of Foxy Roxy the queen of weed is working late in the night entertaining clients.  This print will be a great addition to anyones art collection.",
     "tags": [
         "Shirts"
     ],
     "color": [
-        "yellow",
-        "blue"
+        "green",
+        "pink",
+        " brown",
+        "black",
+        "white",
+        "orange"
     ]
 }
 {
@@ -392,59 +384,53 @@
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac6d"
     },
-    "title": "Colorful hand print shirt",
-    "price": 10,
+    "title": "Baking Edibles",
+    "price": 35,
     "size": [
-        "XL",
-        "L",
-        "M",
-        "S"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_55304.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_99943.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_73042.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_34209.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_99943.jpg"
+        "../img/A1-P5.jpg"
     ],
     "rating": 5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "description": "This 14x11 print of beautiful woman baking some edibles. With a flag in her and and a muffin on her head she is ready to realax.  This print will be a great addition to anyones art collection.",
     "tags": [
         "Shirts"
     ],
     "color": [
-        "yellow",
-        "blue",
-        "purple",
-        "green"
+        "green",
+        "pink",
+        " brown",
+        "black",
+        "white"
     ]
 }
 {
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac6e"
     },
-    "title": "Tribes shirt",
-    "price": 40,
+    "_id": {
+        "$oid": "604aa977a6f405c77f418f54"
+    },
+    "title": "Cackling Hyena",
+    "price": 35,
     "size": [
-        "XL",
-        "L",
-        "XS"
+        "M"
     ],
     "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/27/source-img/20180627112849_31176.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/27/source-img/20180627112849_82331.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/27/source-img/20180627112849_81982.jpg"
+        "../img/A1-P4.jpg"
     ],
-    "rating": 2.5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+    "rating": 5,
+    "description": "This 14x11 print of a cackling hyena smoking some weed on a tropical island.  This print will be a great addition to anyones art collection.",
     "tags": [
         "Shirts"
     ],
     "color": [
-        "yellow",
-        "blue",
-        "purple",
-        "green"
+        "green",
+        "pink",
+        " brown",
+        "black",
+        "white"
     ]
 }
 {
@@ -823,127 +809,18 @@
     "_id": {
         "$oid": "5bb6b6936cfa75c4e50bac7d"
     },
-    "title": "Pineapple shirt",
-    "price": 90,
-    "size": [
-        "XL",
-        "L",
-        "M"
-    ],
-    "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/03/14/source-img/20180314181736_64374.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/03/14/source-img/20180314181736_96144.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/03/14/source-img/20180314181736_72768.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/03/14/source-img/20180314181736_88640.jpg"
-    ],
-    "rating": 5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-    "tags": [
-        "Shirts"
-    ],
-    "color": [
-        "yellow",
-        "blue",
-        "brown",
-        "green"
-    ]
-}
-{
-    "_id": {
-        "$oid": "5bb6b6936cfa75c4e50bac7e"
-    },
-    "title": "Paint rainbow shirt",
-    "price": 20,
-    "size": [
-        "XS"
-    ],
-    "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907171700_93113.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907171659_57045.png",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/07/source-img/20180807145503_75992.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/07/source-img/20180807145503_18112.jpg"
-    ],
-    "rating": 5,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-    "tags": [
-        "Shirts"
-    ],
-    "color": [
-        "yellow",
-        "blue",
-        "brown",
-        "green",
-        "purple",
-        "orange",
-        "red"
-    ]
-}
-{
-    "_id": {
-        "$oid": "5bc814bee7179a4377fdda4b"
-    },
-    "title": "Polo grey",
-    "price": 35,
-    "size": [
-        "XL",
-        "L",
-        "M",
-        "S",
-        "XS"
-    ],
-    "images": [
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/03/source-img/20160503113122_29069.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/03/source-img/20160503113122_44873.jpg",
-        "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/03/source-img/20160503113122_29686.jpg"
-    ],
-    "rating": 4,
-    "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-    "tags": [
-        "Polos"
-    ],
-    "color": [
-        "red",
-        "grey",
-        "blue"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604aa46fa6f405c77f418f51"
-    },
-    "title": "Chillin Gator",
-    "price": 35,
-    "size": "14x11",
-    "images": [
-        "../img/A1-P1.png"
-    ],
-    "rating": 5,
-    "description": "This grining gator skating on his skateboard while smoking some weed. It will be a great addition to anyones are collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604aa586a6f405c77f418f52"
-    },
     "title": "Smokin Goat",
     "price": 35,
     "size": [
-        "14x11"
+        "M"
     ],
     "images": [
-        "../img/A1-P2.png"
+        "../img/A1-P2.jpg"
     ],
     "rating": 5,
-    "description": "This chillin goat is mowing a lawn of weed, while smoking. This will be a great addition to anyones art collection.",
+    "description": "This 14x11 print of a chillin goat is mowing a lawn of weed, while smoking. This will be a great addition to anyones art collection.",
     "tags": [
-        "print"
+        "Shirts"
     ],
     "color": [
         "green",
@@ -954,96 +831,20 @@
 }
 {
     "_id": {
-        "$oid": "604aa6b1a6f405c77f418f53"
+        "$oid": "5bb6b6936cfa75c4e50bac7e"
     },
     "title": "Camping Panda",
     "price": 35,
     "size": [
-        "14x11"
-    ],
-    "images": "../img/A1-P3.png",
-    "rating": 5,
-    "description": "This colorful camping panda that is smoking some weed  will be a great addition to anyones are collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "white"
-    ]
-}
-    
-{
-    "_id": {
-        "$oid": "604aa977a6f405c77f418f54"
-    },
-    "title": "Cackling Hyena",
-    "price": 35,
-    "size": [
-        "14x11"
+        "M"
     ],
     "images": [
-        "../img/A1-P4.png"
+        "../img/A1-P3.jpg"
     ],
     "rating": 5,
-    "description": "This is a print of a cackling hyena smoking some weed on a tropical island.  This print will be a great addition to anyones art collection.",
+    "description": "This 14x11 print of a colorful camping panda that is smoking some weed  will be a great addition to anyones are collection.",
     "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "pink",
-        " brown",
-        "black",
-        "white"
-    ]
-}
-    
-{
-    "_id": {
-        "$oid": "604aab5ba6f405c77f418f55"
-    },
-    "title": "Baking Edibles",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A1-P5.png"
-    ],
-    "rating": 5,
-    "description": "This is a print of beautiful woman baking some edibles. With a flag in her and and a muffin on her head she is ready to realax.  This print will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "pink",
-        " brown",
-        "black",
-        "white"
-    ]
-}
-    
-{
-    "_id": {
-        "$oid": "604aac91a6f405c77f418f56"
-    },
-    "title": "King Kush",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A1-P6.png"
-    ],
-    "rating": 5,
-    "description": "The lion is the king of kush on his throne of weed.  This print will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
+        "Polos"
     ],
     "color": [
         "green",
@@ -1055,355 +856,24 @@
 }
 {
     "_id": {
-        "$oid": "604aad42a6f405c77f418f57"
+        "$oid": "5bc814bee7179a4377fdda4b"
     },
-    "title": "Wizard of Weed",
+    "title": "Chillin Gator",
     "price": 35,
     "size": [
-        "14x11"
+        "M"
     ],
     "images": [
-        "../img/A1-P7.png"
+        "../img/A1-P1.jpg"
     ],
     "rating": 5,
-    "description": "This hero is the wizard of weed.  This print will be a great addition to anyones art collection.",
+    "description": "This 14x11 print of a grining gator skating on his skateboard while smoking some weed. It will be a great addition to anyones are collection.",
     "tags": [
-        "print"
+        "Polos"
     ],
     "color": [
-        "yellow",
-        "black"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604aae10a6f405c77f418f58"
-    },
-    "title": "Foxy Roxy Working",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A1-P8.png"
-    ],
-    "rating": 5,
-    "description": "Foxy Roxy the queen of weed is working late in the night entertaining clients.  This print will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "pink",
-        " brown",
-        "black",
-        "white",
-        "orange"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604aaebaa6f405c77f418f59"
-    },
-    "title": "Banana Kush",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A1-P9.png"
-    ],
-    "rating": 5,
-    "description": "The monkey spins his music while smoking creating some jams that people are ready to enjoy.  This print will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
         "red",
-        " brown",
-        "black",
-        "white"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab0aaa6f405c77f418f5a"
-    },
-    "title": "12 Zodiac Aries",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A2-P1.png"
-    ],
-    "rating": 5,
-    "description": "The Aries print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
         "green",
-        "red",
-        " brown",
-        "black",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab11ba6f405c77f418f5b"
-    },
-    "title": "12 Zodiac Taurus",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A2-P2.png"
-    ],
-    "rating": 5,
-    "description": "The Taurus print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "yellow",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab164a6f405c77f418f5c"
-    },
-    "title": "12 Zodiac Gemini",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A2-P3.png"
-    ],
-    "rating": 5,
-    "description": "The Gemini  print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab1b6a6f405c77f418f5d"
-    },
-    "title": "12 Zodiac Cancer",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A2-P4.png"
-    ],
-    "rating": 5,
-    "description": "The Cancer print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "orange",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab242a6f405c77f418f5e"
-    },
-    "title": "12 Zodiac Leo",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A2-P5.png"
-    ],
-    "rating": 5,
-    "description": "The Leo print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        "brown",
-        "black",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab29ba6f405c77f418f5f"
-    },
-    "title": "12 Zodiac Virgo",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": "../img/A2-P6.png",
-    "rating": "5",
-    "description": "The Virgo  print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab316a6f405c77f418f60"
-    },
-    "title": "12 Zodiac Libra",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": "../img/A2png",
-    "rating": 5,
-    "description": "The Libra print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab38ba6f405c77f418f61"
-    },
-    "title": "12 Zodiac Scorpio",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": "../img/A2-P8.png",
-    "rating": 5,
-    "description": "The Scorpio print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604ab9b1a6f405c77f418f64"
-    },
-    "title": "12 Zodiac Capricorn",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A2-P10.png"
-    ],
-    "rating": 5,
-    "description": "The Capricorn  print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604aba25a6f405c77f418f65"
-    },
-    "title": "12 Zodiac Aquarius",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A2-P11.png"
-    ],
-    "rating": 5,
-    "description": "The Aquarius print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "white",
-        "purple"
-    ]
-}
-{
-    "_id": {
-        "$oid": "604aba87a6f405c77f418f66"
-    },
-    "title": "12 Zodiac Pices",
-    "price": 35,
-    "size": [
-        "14x11"
-    ],
-    "images": [
-        "../img/A2-P12.png"
-    ],
-    "rating": 5,
-    "description": "The Pisces print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
-    "tags": [
-        "print"
-    ],
-    "color": [
-        "green",
-        "red",
-        " brown",
-        "black",
-        "white",
-        "purple"
+        "brown"
     ]
 }
