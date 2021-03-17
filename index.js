@@ -2,7 +2,7 @@ const express = require("express");
 const morgan = require("morgan");
 const bodyParser = require("body-parser");
 const mongoose = require("mongoose").set("debug", true);
-
+const PORT = process.env.PORT || 3001;
 const path = require("path");
 require("dotenv").config();
 require("./services/passport.js");
@@ -15,9 +15,14 @@ mongoose.connect(env === "development" ? config.DB_URI_DEV : config.DB_URI, {
   useUnifiedTopology: true,
   useNewUrlParser: true,
   useFindAndModify: false,
-  useCreateIndex: true
+  useCreateIndex: true,
 });
-
+mongoose.connection.on("connected", () => {
+  console.log("mongoose is connected");
+});
+mongoose.connection.on("error", () => {
+  console.log("this is an error");
+});
 const app = express();
 app.use(compression());
 
@@ -33,4 +38,6 @@ env !== "development" &&
     res.sendFile(path.join(__dirname + "/client/build/index.html"));
   });
 
-app.listen(process.env.PORT || 5000);
+app.listen(PORT, function () {
+  console.log(`🌎  ==> API Server now listening on PORT ${PORT}!`);
+});
