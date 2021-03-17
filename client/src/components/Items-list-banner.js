@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 import React from 'react'
-import { 
-  Jumbotron, 
+import {
+  Jumbotron,
   Container,
 } from 'reactstrap';
 import {
@@ -17,9 +17,9 @@ const propTypes = {
   keywordsForFilter: PropTypes.array,
 }
 
-const styles={
+const styles = {
   bannerCoverMenPc: {
-    backgroundImage: 'url("/images/banner-men-pc.jpg")',
+    backgroundImage: 'url("../img/A1-P4.jpg")',
     backgroundSize: 'cover'
   },
   bannerCoverWomenPc: {
@@ -27,7 +27,7 @@ const styles={
     backgroundSize: 'cover'
   },
   bannerCoverMenMobile: {
-    backgroundImage: 'url("/images/banner-men-mobile.jpg")',
+    backgroundImage: 'url("../img/A2-P1.jpg")',
     backgroundSize: 'cover'
   },
   bannerCoverWomenMobile: {
@@ -36,7 +36,7 @@ const styles={
   },
   textBanner: {
     textShadow: "3px 3px 3px grey",
-    color:'white'
+    color: 'white'
   },
   titleH1Pc: {
     fontSize: '80px'
@@ -51,18 +51,18 @@ const ItemsListBanner = ({
   keywordsForFilter
 }) => {
 
-  const { bannerCoverMenPc, bannerCoverMenMobile, bannerCoverWomenMobile, bannerCoverWomenPc,  textBanner, titleH1Pc } = styles
-  const backgroundJumbotron = 
-    isMobile && gender === 'men' ?  bannerCoverMenMobile :
-    isMobile && gender === 'women' ?  bannerCoverWomenMobile :
-    isMobile === false && gender === 'men' ? bannerCoverMenPc :
-    bannerCoverWomenPc
+  const { bannerCoverMenPc, bannerCoverMenMobile, bannerCoverWomenMobile, bannerCoverWomenPc, textBanner, titleH1Pc } = styles
+  const backgroundJumbotron =
+    isMobile && gender === 'men' ? bannerCoverMenMobile :
+      isMobile && gender === 'women' ? bannerCoverWomenMobile :
+        isMobile === false && gender === 'men' ? bannerCoverMenPc :
+          bannerCoverWomenPc
 
   return (
     <Jumbotron style={backgroundJumbotron}>
       <Container style={textBanner}>
-        <h1 className="display-3" style={titleH1Pc}>{gender === 'men' ? 'Men' : 'Women' }</h1>
-        <ItemsListHtagsLabels 
+        <h1 className="display-3" style={titleH1Pc}>{gender === 'men' ? 'Men' : 'Women'}</h1>
+        <ItemsListHtagsLabels
           reducerPriceRangeFilter={reducerPriceRangeFilter}
           sortArgsForFilter={sortArgsForFilter}
           sortSizeForFilter={sortSizeForFilter}
