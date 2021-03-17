@@ -1,4 +1,3 @@
-
 [
     {
         "_id": {
@@ -91,7 +90,7 @@
             "/img/A2-P6.jpg"
         ],
         "rating": 5,
-        "description": "The 14x11 print of the Virgo sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "The 14x11 print of the Virgo sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
         "tags": [
             "Pants"
         ],
@@ -117,7 +116,7 @@
             "/img/A2-P4.jpg"
         ],
         "rating": 5,
-        "description": "This 14x11 print of the Cancer sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "This 14x11 print of the Cancer sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
         "tags": [
             "Jackets"
         ],
@@ -144,7 +143,7 @@
             "/img/A2-P8.jpg"
         ],
         "rating": 5,
-        "description": "The 14x11 Scorpio print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "The 14x11 Scorpio print represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
         "tags": [
             "Shirts"
         ],
@@ -222,7 +221,7 @@
             "/img/A2-P11.jpg"
         ],
         "rating": 5,
-        "description": "The Aquarius print represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "This 14x11 Aquarius print represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
         "tags": [
             "Jackets"
         ],
@@ -286,20 +285,19 @@
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac69"
         },
-        "title": "Blue dress",
-        "price": 65,
+        "title": "Maiden of Sweet Nothings",
+        "price": 40,
         "size": [
             "XL",
             "L",
-            "M"
+            "M",
+            "S"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907195249_56912.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907195249_48060.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907195249_65515.jpg"
+            "/img/t-shirts-anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png"
         ],
         "rating": 4,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "This is a cute anime inspired maid t-shirt",
         "tags": [
             "Dresses"
         ],
@@ -311,20 +309,19 @@
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac6a"
         },
-        "title": "White dress",
-        "price": 65,
+        "title": "Error 404",
+        "price": 40,
         "size": [
             "L",
             "M",
+            "S",
             "XS"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/22/source-img/20180622095930_34558.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/22/source-img/20180622095929_68228.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/22/source-img/20180622095928_90026.jpg"
+            "/img/t-shirts-bizarre-t-shirt-design-generator-with-an-anime-inspired-graphic-3328c.png"
         ],
         "rating": 4,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "This is a bizarre internal server error shirt",
         "tags": [
             "Dresses"
         ],
@@ -362,19 +359,18 @@
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac6c"
         },
-        "title": "Blue dress with flowers",
-        "price": 65,
+        "title": "Smoking Gangster",
+        "price": 40,
         "size": [
             "L",
             "M",
             "S"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/11/source-img/20161011102927_56464.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/11/source-img/20161011102927_19276.jpg"
+            "/img/t-shirts-cartoonish-t-shirt-design-creator-with-a-smoking-gangster-4005c.png"
         ],
         "rating": 5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "This t-shirt is of a smoking gangster.",
         "tags": [
             "Dresses"
         ],
@@ -461,103 +457,99 @@
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac6f"
         },
-        "title": "Cardigan pink",
-        "price": 25,
+        "title": "Anguished Tomato",
+        "price": 40,
         "size": [
             "XL",
             "L",
-            "M"
+            "M",
+            "S"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/11/13/source-img/20171113182300_14554.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/11/13/source-img/20171113182300_89627.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/11/13/source-img/20171113182300_77800.jpg"
+            "/img/t-shirts-illustrated-t-shirt-design-creator-featuring-an-anguished-tomato-3325c.png"
         ],
-        "rating": 3.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "rating": 4.5,
+        "description": "The tomatoes age old Question...Is a tomato a fruit or a vegetable?",
         "tags": [
             "Cardigans"
         ],
         "color": [
-            "pink",
             "white",
-            "grey"
+            "black"
         ]
     },
     {
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac70"
         },
-        "title": "Brown top",
+        "title": "Welcome to Mars",
         "price": 40,
         "size": [
             "XL",
             "M",
+            "S",
             "XS"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/05/26/source-img/20170526120731_41451.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/05/26/source-img/20170526120731_84333.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/05/26/source-img/20170526120731_18788.jpg"
+            "/img/t-shirts-space-themed-t-shirt-design-template-with-a-retro-style-2255.png"
         ],
         "rating": 4.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "The Astronaut on mars is a great but simple shirt.",
         "tags": [
             "Tops"
         ],
         "color": [
-            "brown",
-            "grey"
+            "black",
+            "white"
         ]
     },
     {
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac71"
         },
-        "title": "Black top",
+        "title": "Born This Way",
         "price": 40,
         "size": [
             "XL",
+            "L",
             "M",
             "XS"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/08/source-img/20160708084843_14121.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/08/source-img/20160708084843_27096.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/08/source-img/20160708084843_64057.jpg"
+            "/img/t-shirt-design-creator-featuring-a-picture-of-a-horse-disguised-as-a-unicorn-2396d.png"
         ],
         "rating": 4.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "The horses...no not horses. The unicorns were born this way",
         "tags": [
             "Tops"
         ],
         "color": [
-            "black"
+            "black",
+            "white"
         ]
     },
     {
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac72"
         },
-        "title": "Orange top",
-        "price": 50,
+        "title": "Astronaut Kitty",
+        "price": 40,
         "size": [
             "XL",
+            "L",
             "M",
             "S"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/05/source-img/20160705154419_68755.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/05/source-img/20160705154419_63189.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/05/source-img/20160705154419_24527.jpg"
+            "/img/t-shirt-design-creator-featuring-an-astronaut-cat-2396a.png"
         ],
         "rating": 4.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "Astronaut Kitty is a space kitty that is ready to go on his mission.",
         "tags": [
             "Tops"
         ],
         "color": [
-            "orange",
+            "Black",
             "white"
         ]
     },
@@ -565,20 +557,19 @@
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac73"
         },
-        "title": "Cute black top",
+        "title": "Astro Dog",
         "price": 52,
         "size": [
+            "XL",
             "L",
             "M",
             "S"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/source-img/20160603103648_45209.JPG",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/source-img/20160603103649_24529.JPG",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/source-img/20160603103649_41517.JPG"
+            "/img/t-shirt-design-creator-with-a-graphic-of-an-astronaut-and-his-dog-3380b.png"
         ],
         "rating": 4.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "Having a great time a dog and his master",
         "tags": [
             "Tops"
         ],
@@ -590,194 +581,32 @@
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac74"
         },
-        "title": "Top blue",
-        "price": 52,
+        "title": "My Shade of Purple",
+        "price": 40,
         "size": [
+            "XL",
             "L",
             "M",
             "S"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/31/source-img/20160531102830_15250.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/31/source-img/20160531102828_81224.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/31/source-img/20160531102829_59276.jpg"
+            "/img/t-shirt-design-creator-with-a-surrealistic-graphic-of-an-astronaut-in-space-3380f.png"
         ],
         "rating": 4,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "Lets go to space and paint the skys purple.",
         "tags": [
             "Tops"
         ],
         "color": [
-            "blue"
+            "black",
+            "white"
         ]
     },
     {
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac75"
         },
-        "title": "Cardigan retro pattern",
-        "price": 25,
-        "size": [
-            "XL",
-            "L",
-            "M",
-            "S",
-            "XS"
-        ],
-        "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/15/source-img/20180815162429_82406.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/15/source-img/20180815162429_52228.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/15/source-img/20180815162429_11223.jpg"
-        ],
-        "rating": 3.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-        "tags": [
-            "Cardigans"
-        ],
-        "color": [
-            "grey",
-            "white"
-        ]
-    },
-    {
-        "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac76"
-        },
-        "title": "Trench coat yellow",
-        "price": 55,
-        "size": [
-            "XL",
-            "L",
-            "M",
-            "S",
-            "XS"
-        ],
-        "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/25/source-img/20180925115448_33510.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/25/source-img/20180925115448_26493.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/25/source-img/20180925115448_99655.jpg"
-        ],
-        "rating": 4,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-        "tags": [
-            "Trench Coats"
-        ],
-        "color": [
-            "yellow"
-        ]
-    },
-    {
-        "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac77"
-        },
-        "title": "Belted coat",
-        "price": 55,
-        "size": [
-            "XL",
-            "L",
-            "M",
-            "S",
-            "XS"
-        ],
-        "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/20/source-img/20160920110358_99584.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/20/source-img/20160920110358_75582.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/20/source-img/20160920110358_99584.jpg"
-        ],
-        "rating": 4,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-        "tags": [
-            "Trench Coats"
-        ],
-        "color": [
-            "yellow"
-        ]
-    },
-    {
-        "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac78"
-        },
-        "title": "Trench coat blue",
-        "price": 52,
-        "size": [
-            "L",
-            "M",
-            "S"
-        ],
-        "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/19/source-img/20160919113634_48148.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/19/source-img/20160919113636_70885.JPG",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/19/source-img/20160919113636_17032.JPG"
-        ],
-        "rating": 4,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-        "tags": [
-            "Trench Coats"
-        ],
-        "color": [
-            "blue"
-        ]
-    },
-    {
-        "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac79"
-        },
-        "title": "Cardigan geometric pattern",
-        "price": 25,
-        "size": [
-            "XL",
-            "L",
-            "M"
-        ],
-        "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/26/source-img/20160726172732_94059.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/26/source-img/20160726172734_10558.JPG",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/26/source-img/20160726172737_31992.JPG"
-        ],
-        "rating": 3.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-        "tags": [
-            "Cardigans"
-        ],
-        "color": [
-            "blue",
-            "orange",
-            "grey",
-            "brown",
-            "white"
-        ]
-    },
-    {
-        "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac7a"
-        },
-        "title": "Two tone coat",
-        "price": 60,
-        "size": [
-            "XL",
-            "L",
-            "S",
-            "XS"
-        ],
-        "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/12/source-img/20161012115126_54688.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/12/source-img/20161012115126_35399.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/12/source-img/20161012115126_56750.jpg"
-        ],
-        "rating": 5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
-        "tags": [
-            "Trench Coats"
-        ],
-        "color": [
-            "yellow"
-        ]
-    },
-    {
-        "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac7b"
-        },
-        "title": "Cardigan vintage",
+        "title": "Chaos",
         "price": 40,
         "size": [
             "XL",
@@ -787,17 +616,167 @@
             "XS"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026172224_49873.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026172224_24309.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026172224_99399.jpg"
+            "/img/t-shirt-design-generator-featuring-a-steampunk-character-3084c.png"
         ],
         "rating": 3.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "Steam punk t-shirt",
         "tags": [
             "Cardigans"
         ],
         "color": [
-            "grey",
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac76"
+        },
+        "title": "Everything is OK",
+        "price": 55,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-generator-featuring-an-aggressive-shark-and-a-sardonic-quote-2335i.png"
+        ],
+        "rating": 4,
+        "description": "Everything is OK...But how do you really feel?",
+        "tags": [
+            "Trench Coats"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac77"
+        },
+        "title": "Gathering Space",
+        "price": 55,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-template-with-surrealistic-illustrations-of-astronauts-3380.png"
+        ],
+        "rating": 4,
+        "description": "This astronaut is gathering his space. The astronaut decided 'I need my space' and is gathering space.",
+        "tags": [
+            "Trench Coats"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac78"
+        },
+        "title": "Sick Planet",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirt-design-maker-featuring-a-sick-planet-graphic-2301b.png"
+        ],
+        "rating": 4,
+        "description": "The planet is not feeling very good.",
+        "tags": [
+            "Trench Coats"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac79"
+        },
+        "title": "The End is Near",
+        "price": 25,
+        "size": [
+            "XL",
+            "L",
+            "M"
+        ],
+        "images": [
+            "/img/t-shirt-design-maker-featuring-an-astronaut-in-an-hourglass-3380a.png"
+        ],
+        "rating": 3.5,
+        "description": "Going through life in an hour glass",
+        "tags": [
+            "Cardigans"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac7a"
+        },
+        "title": "Gravity Gets Me Down",
+        "price": 60,
+        "size": [
+            "XL",
+            "L",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-generator-with-an-astronaut-themed-surrealistic-graphic-3380g.png"
+        ],
+        "rating": 5,
+        "description": "Gravity always gets me down...How about you?",
+        "tags": [
+            "Trench Coats"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac7b"
+        },
+        "title": "High Society",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-template-featuring-futuristic-characters-3084.png  "
+        ],
+        "rating": 3.5,
+        "description": "This animated inspired shirt of high society",
+        "tags": [
+            "Cardigans"
+        ],
+        "color": [
+            "black",
             "white"
         ]
     },
@@ -805,7 +784,7 @@
         "_id": {
             "$oid": "5bb6b6936cfa75c4e50bac7c"
         },
-        "title": "Cardigan",
+        "title": "Cultured Women",
         "price": 65,
         "size": [
             "XL",
@@ -814,13 +793,10 @@
             "S"
         ],
         "images": [
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/09/18/source-img/20170918122338_77829.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/09/18/source-img/20170918122338_12037.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/09/18/source-img/20170918122338_83261.jpg",
-            "https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/09/18/source-img/20170918122338_57687.jpg"
+            "/img/t-shirt-design-maker-featuring-an-illustration-of-a-cultured-woman-2276c.png"
         ],
         "rating": 3.5,
-        "description": "uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp",
+        "description": "Laugh out loud...Friday is my second Favorite F-Word",
         "tags": [
             "Cardigans"
         ],
@@ -891,7 +867,7 @@
             "/img/A1-P1.jpg"
         ],
         "rating": 5,
-        "description": "This 14x11 print of a grining gator skating on his skateboard while smoking some weed. It will be a great addition to anyones are collection.",
+        "description": "This 14x11 print of a grinning gator skating on his skateboard while smoking some weed. It will be a great addition to anyones are collection.",
         "tags": [
             "Polos"
         ],
@@ -902,4 +878,3 @@
         ]
     }
 ]
-
