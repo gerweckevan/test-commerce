@@ -1,34 +1,880 @@
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac5e"},"title":"Polo red","price":50,"size":["XL","L","M","S","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/source-img/20160603190149_72043.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/thumb-img/1464923952674675109.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/thumb-img/1464923952389433115.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/thumb-img/1464923952939170654.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Polos"],"color":["red"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac5f"},"title":"Yellow pant","price":6,"size":["XS","L"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720200455_27922.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720200455_35871.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720200455_67554.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720200455_52289.jpg"],"rating":3,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Pants"],"color":["yellow"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac60"},"title":"Blue yellow pant","price":66,"size":["XS","M","L"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/25/source-img/20180725172558_32423.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/25/source-img/20180725172558_38854.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/25/source-img/20180725172558_59140.jpg"],"rating":3.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Pants"],"color":["yellow","blue"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac61"},"title":"Dark blue jean","price":20,"size":["XS","L"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720161510_63076.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720161510_46741.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/07/20/source-img/20180720161510_77977.jpg"],"rating":0.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Pants"],"color":["blue"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac62"},"title":"Blue cotton jacket","price":110,"size":["XL","XS","M","L"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/30/source-img/20171030165524_57809.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/30/source-img/20171030165524_96044.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/30/source-img/20171030165524_11220.jpg"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Jackets"],"color":["blue","white"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac63"},"title":"Modern art shirt","price":10,"size":["XL","L","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/03/source-img/20180803155617_93798.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/03/source-img/20180803155617_76669.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/03/source-img/20180803155617_41853.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/03/source-img/20180803155616_96061.jpg"],"rating":5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Shirts"],"color":["yellow","blue","purple","green"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac64"},"title":"Black cotton jacket","price":110,"size":["XL","XS","M","L"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_91772.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_14734.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_85675.jpg"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Jackets"],"color":["black","grey"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac65"},"title":"Blazer black","price":65,"size":["XL","XS","L"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/25/source-img/20160725122041_81042.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_14734.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/24/source-img/20180824193826_85675.jpg"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Jackets"],"color":["black","grey"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac66"},"title":"Blazer christmas","price":65,"size":["XL","L","M"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026104800_75333.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026104801_37889.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026104801_46431.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026104802_95255.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Jackets"],"color":["red","grey"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac67"},"title":"Blazer grey","price":65,"size":["XL","L","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/11/01/source-img/20161101165944_84994.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/11/01/source-img/20161101165944_46584.jpg"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Jackets"],"color":["black","grey"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac68"},"title":"Blazer party grey","price":65,"size":["XL","L","M"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/13/source-img/20161013153000_23902.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/13/source-img/20161013153000_46494.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/13/source-img/20161013153000_83861.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/13/source-img/20161013153000_27628.jpg"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Jackets"],"color":["red","grey"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac69"},"title":"Blue dress","price":65,"size":["XL","L","M"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907195249_56912.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907195249_48060.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907195249_65515.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Dresses"],"color":["blue"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac6a"},"title":"White dress","price":65,"size":["L","M","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/22/source-img/20180622095930_34558.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/22/source-img/20180622095929_68228.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/22/source-img/20180622095928_90026.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Dresses"],"color":["white"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac6b"},"title":"Floral vintage shirt","price":20,"size":["XL","L","S"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/03/01/source-img/20160301102035_69373.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/03/01/source-img/20160301102036_39390.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Shirts"],"color":["yellow","blue"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac6c"},"title":"Blue dress with flowers","price":65,"size":["L","M","S"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/11/source-img/20161011102927_56464.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/11/source-img/20161011102927_19276.jpg"],"rating":5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Dresses"],"color":["blue"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac6d"},"title":"Colorful hand print shirt","price":10,"size":["XL","L","M","S"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_55304.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_99943.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_73042.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_34209.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/16/source-img/20180816184400_99943.jpg"],"rating":5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Shirts"],"color":["yellow","blue","purple","green"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac6e"},"title":"Tribes shirt","price":40,"size":["XL","L","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/27/source-img/20180627112849_31176.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/27/source-img/20180627112849_82331.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/06/27/source-img/20180627112849_81982.jpg"],"rating":2.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Shirts"],"color":["yellow","blue","purple","green"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac6f"},"title":"Cardigan pink","price":25,"size":["XL","L","M"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/11/13/source-img/20171113182300_14554.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/11/13/source-img/20171113182300_89627.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/11/13/source-img/20171113182300_77800.jpg"],"rating":3.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Cardigans"],"color":["pink","white","grey"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac70"},"title":"Brown top","price":40,"size":["XL","M","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/05/26/source-img/20170526120731_41451.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/05/26/source-img/20170526120731_84333.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/05/26/source-img/20170526120731_18788.jpg"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Tops"],"color":["brown","grey"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac71"},"title":"Black top","price":40,"size":["XL","M","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/08/source-img/20160708084843_14121.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/08/source-img/20160708084843_27096.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/08/source-img/20160708084843_64057.jpg"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Tops"],"color":["black"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac72"},"title":"Orange top","price":50,"size":["XL","M","S"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/05/source-img/20160705154419_68755.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/05/source-img/20160705154419_63189.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/05/source-img/20160705154419_24527.jpg"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Tops"],"color":["orange","white"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac73"},"title":"Cute black top","price":52,"size":["L","M","S"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/source-img/20160603103648_45209.JPG","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/source-img/20160603103649_24529.JPG","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/06/03/source-img/20160603103649_41517.JPG"],"rating":4.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Tops"],"color":["black"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac74"},"title":"Top blue","price":52,"size":["L","M","S"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/31/source-img/20160531102830_15250.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/31/source-img/20160531102828_81224.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/31/source-img/20160531102829_59276.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Tops"],"color":["blue"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac75"},"title":"Cardigan retro pattern","price":25,"size":["XL","L","M","S","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/15/source-img/20180815162429_82406.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/15/source-img/20180815162429_52228.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/15/source-img/20180815162429_11223.jpg"],"rating":3.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Cardigans"],"color":["grey","white"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac76"},"title":"Trench coat yellow","price":55,"size":["XL","L","M","S","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/25/source-img/20180925115448_33510.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/25/source-img/20180925115448_26493.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/25/source-img/20180925115448_99655.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Trench Coats"],"color":["yellow"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac77"},"title":"Belted coat","price":55,"size":["XL","L","M","S","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/20/source-img/20160920110358_99584.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/20/source-img/20160920110358_75582.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/20/source-img/20160920110358_99584.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Trench Coats"],"color":["yellow"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac78"},"title":"Trench coat blue","price":52,"size":["L","M","S"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/19/source-img/20160919113634_48148.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/19/source-img/20160919113636_70885.JPG","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/09/19/source-img/20160919113636_17032.JPG"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Trench Coats"],"color":["blue"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac79"},"title":"Cardigan geometric pattern","price":25,"size":["XL","L","M"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/26/source-img/20160726172732_94059.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/26/source-img/20160726172734_10558.JPG","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/07/26/source-img/20160726172737_31992.JPG"],"rating":3.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Cardigans"],"color":["blue","orange","grey","brown","white"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac7a"},"title":"Two tone coat","price":60,"size":["XL","L","S","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/12/source-img/20161012115126_54688.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/12/source-img/20161012115126_35399.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/10/12/source-img/20161012115126_56750.jpg"],"rating":5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Trench Coats"],"color":["yellow"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac7b"},"title":"Cardigan vintage","price":40,"size":["XL","L","M","S","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026172224_49873.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026172224_24309.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/10/26/source-img/20171026172224_99399.jpg"],"rating":3.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Cardigans"],"color":["grey","white"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac7c"},"title":"Cardigan","price":65,"size":["XL","L","M","S"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/09/18/source-img/20170918122338_77829.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/09/18/source-img/20170918122338_12037.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/09/18/source-img/20170918122338_83261.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2017/09/18/source-img/20170918122338_57687.jpg"],"rating":3.5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Cardigans"],"color":["blue","white"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac7d"},"title":"Pineapple shirt","price":90,"size":["XL","L","M"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/03/14/source-img/20180314181736_64374.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/03/14/source-img/20180314181736_96144.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/03/14/source-img/20180314181736_72768.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/03/14/source-img/20180314181736_88640.jpg"],"rating":5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Shirts"],"color":["yellow","blue","brown","green"]}
-{"_id":{"$oid":"5bb6b6936cfa75c4e50bac7e"},"title":"Paint rainbow shirt","price":20,"size":["XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907171700_93113.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/09/07/source-img/20180907171659_57045.png","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/07/source-img/20180807145503_75992.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2018/08/07/source-img/20180807145503_18112.jpg"],"rating":5,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Shirts"],"color":["yellow","blue","brown","green","purple","orange","red"]}
-{"_id":{"$oid":"5bc814bee7179a4377fdda4b"},"title":"Polo grey","price":35,"size":["XL","L","M","S","XS"],"images":["https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/03/source-img/20160503113122_29069.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/03/source-img/20160503113122_44873.jpg","https://gloimg.samcdn.com/S/pdm-product-pic/Clothing/2016/05/03/source-img/20160503113122_29686.jpg"],"rating":4,"description":"uspendisse nisi erat, elementum nec mollis ut, dignissim sit amet eros. Cras venenatis erat sit amet eros fer mentum malesuada. Sed lobortis mi neque, id aliquam massa consequat quis. Nunc diam dolor, viverra eu tellus a, mattis vehicul a nisi. Nullam bibendum ultrices quam, in faucibus lectus faucibus et. Proin tincidunt diam mattis arcu vulputate, ac posuere ero s fringilla. Aenean justo ante, iaculis id suscipit id, lobortis sit amet neque. Vestibulum rhoncus risus vitae tortor dictum, at fini bus ex convallis. Pellentesque venenatis libero in enim mattis cursus. Mauris pretium magna nisi, et pharetra felis elementum sit amet. N ullam ornare condimentum tortor condimentum volutpat. Suspendisse eget mattis nulla, sit amet venenatis magna. Sed pulvinar nunc quam, nec port titor eros accumsan id. Ut sapien ante, dignissim sed dapibus vitae, temp","tags":["Polos"],"color":["red","grey","blue"]}
+[
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac5e"
+        },
+        "title": "12 Zodiac Leo",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2-P5.jpg"
+        ],
+        "rating": 5,
+        "description": "The 14x11 print of the Leo sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to any ones art collection.",
+        "tags": [
+            "Pants"
+        ],
+        "color": [
+            "green",
+            "red",
+            "brown",
+            "black",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac5f"
+        },
+        "title": "12 Zodiac Taurus",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2-P2.jpg"
+        ],
+        "rating": 5,
+        "description": "The 14x11 print of the Taurus sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to any ones art collection.",
+        "tags": [
+            "Pants"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "yellow",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac60"
+        },
+        "title": "12 Zodiac Gemini",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2-P3.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print of the Gemini sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "tags": [
+            "Polos"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac61"
+        },
+        "title": "12 Zodiac Virgo",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2-P6.jpg"
+        ],
+        "rating": 5,
+        "description": "The 14x11 print of the Virgo sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "tags": [
+            "Pants"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac62"
+        },
+        "title": "12 Zodiac Cancer",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2-P4.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print of the Cancer sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "tags": [
+            "Jackets"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "orange",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac63"
+        },
+        "title": "12 Zodiac Scorpio",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2-P8.jpg"
+        ],
+        "rating": 5,
+        "description": "The 14x11 Scorpio print represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "tags": [
+            "Shirts"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac64"
+        },
+        "title": "12 Zodiac Libra",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2.jpg"
+        ],
+        "rating": 5,
+        "description": "The 14x11 print of the Libra sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "tags": [
+            "Jackets"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac65"
+        },
+        "title": "12 Zodiac Aries",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2-P1.jpg"
+        ],
+        "rating": 5,
+        "description": "The 14x11 print of the Aries sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "tags": [
+            "Jackets"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac66"
+        },
+        "title": "12 Zodiac Aquarius",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A2-P11.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 Aquarius print represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "tags": [
+            "Jackets"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white",
+            "purple"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac67"
+        },
+        "title": "Wizard of Weed",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P7.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print hero is the wizard of weed.  This print will be a great addition to anyones art collection.",
+        "tags": [
+            "Jackets"
+        ],
+        "color": [
+            "yellow",
+            "black"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac68"
+        },
+        "title": "Banana Kush",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P9.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print of a monkey spins his music while smoking creating some jams that people are ready to enjoy.  This print will be a great addition to anyones art collection.",
+        "tags": [
+            "Jackets"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac69"
+        },
+        "title": "Maiden of Sweet Nothings",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirts-anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png"
+        ],
+        "rating": 4,
+        "description": "This is a cute anime inspired maid t-shirt",
+        "tags": [
+            "Dresses"
+        ],
+        "color": [
+            "blue"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac6a"
+        },
+        "title": "Error 404",
+        "price": 40,
+        "size": [
+            "L",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirts-bizarre-t-shirt-design-generator-with-an-anime-inspired-graphic-3328c.png"
+        ],
+        "rating": 4,
+        "description": "This is a bizarre internal server error shirt",
+        "tags": [
+            "Dresses"
+        ],
+        "color": [
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac6b"
+        },
+        "title": "Foxy Roxy Working",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P8.jpg"
+        ],
+        "rating": 5,
+        "description": "A 14x11 print of Foxy Roxy the queen of weed is working late in the night entertaining clients.  This print will be a great addition to anyones art collection.",
+        "tags": [
+            "Shirts"
+        ],
+        "color": [
+            "green",
+            "pink",
+            " brown",
+            "black",
+            "white",
+            "orange"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac6c"
+        },
+        "title": "Smoking Gangster",
+        "price": 40,
+        "size": [
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirts-cartoonish-t-shirt-design-creator-with-a-smoking-gangster-4005c.png"
+        ],
+        "rating": 5,
+        "description": "This t-shirt is of a smoking gangster.",
+        "tags": [
+            "Dresses"
+        ],
+        "color": [
+            "blue"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac6d"
+        },
+        "title": "Baking Edibles",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P5.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print of beautiful woman baking some edibles. With a flag in her and and a muffin on her head she is ready to realax.  This print will be a great addition to anyones art collection.",
+        "tags": [
+            "Shirts"
+        ],
+        "color": [
+            "green",
+            "pink",
+            " brown",
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac6e"
+        },
+        "title": "King Kush",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P6.png"
+        ],
+        "rating": 5,
+        "description": "The 14x11 print of a lion is the king of kush on his throne of weed.  This print will be a great addition to anyones art collection.",
+        "tags": [
+            "Shirts"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "604aa977a6f405c77f418f54"
+        },
+        "title": "Cackling Hyena",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P4.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print of a cackling hyena smoking some weed on a tropical island.  This print will be a great addition to anyones art collection.",
+        "tags": [
+            "Shirts"
+        ],
+        "color": [
+            "green",
+            "pink",
+            " brown",
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac6f"
+        },
+        "title": "Anguished Tomato",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirts-illustrated-t-shirt-design-creator-featuring-an-anguished-tomato-3325c.png"
+        ],
+        "rating": 4.5,
+        "description": "The tomatoes age old Question...Is a tomato a fruit or a vegetable?",
+        "tags": [
+            "Cardigans"
+        ],
+        "color": [
+            "white",
+            "black"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac70"
+        },
+        "title": "Welcome to Mars",
+        "price": 40,
+        "size": [
+            "XL",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirts-space-themed-t-shirt-design-template-with-a-retro-style-2255.png"
+        ],
+        "rating": 4.5,
+        "description": "The Astronaut on mars is a great but simple shirt.",
+        "tags": [
+            "Tops"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac71"
+        },
+        "title": "Born This Way",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-creator-featuring-a-picture-of-a-horse-disguised-as-a-unicorn-2396d.png"
+        ],
+        "rating": 4.5,
+        "description": "The horses...no not horses. The unicorns were born this way",
+        "tags": [
+            "Tops"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac72"
+        },
+        "title": "Astronaut Kitty",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirt-design-creator-featuring-an-astronaut-cat-2396a.png"
+        ],
+        "rating": 4.5,
+        "description": "Astronaut Kitty is a space kitty that is ready to go on his mission.",
+        "tags": [
+            "Tops"
+        ],
+        "color": [
+            "Black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac73"
+        },
+        "title": "Astro Dog",
+        "price": 52,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirt-design-creator-with-a-graphic-of-an-astronaut-and-his-dog-3380b.png"
+        ],
+        "rating": 4.5,
+        "description": "Having a great time a dog and his master",
+        "tags": [
+            "Tops"
+        ],
+        "color": [
+            "black"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac74"
+        },
+        "title": "My Shade of Purple",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirt-design-creator-with-a-surrealistic-graphic-of-an-astronaut-in-space-3380f.png"
+        ],
+        "rating": 4,
+        "description": "Lets go to space and paint the skys purple.",
+        "tags": [
+            "Tops"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac75"
+        },
+        "title": "Chaos",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-generator-featuring-a-steampunk-character-3084c.png"
+        ],
+        "rating": 3.5,
+        "description": "Steam punk t-shirt",
+        "tags": [
+            "Cardigans"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac76"
+        },
+        "title": "Everything is OK",
+        "price": 55,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-generator-featuring-an-aggressive-shark-and-a-sardonic-quote-2335i.png"
+        ],
+        "rating": 4,
+        "description": "Everything is OK...But how do you really feel?",
+        "tags": [
+            "Trench Coats"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac77"
+        },
+        "title": "Gathering Space",
+        "price": 55,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-template-with-surrealistic-illustrations-of-astronauts-3380.png"
+        ],
+        "rating": 4,
+        "description": "This astronaut is gathering his space. The astronaut decided 'I need my space' and is gathering space.",
+        "tags": [
+            "Trench Coats"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac78"
+        },
+        "title": "Sick Planet",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirt-design-maker-featuring-a-sick-planet-graphic-2301b.png"
+        ],
+        "rating": 4,
+        "description": "The planet is not feeling very good.",
+        "tags": [
+            "Trench Coats"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac79"
+        },
+        "title": "The End is Near",
+        "price": 25,
+        "size": [
+            "XL",
+            "L",
+            "M"
+        ],
+        "images": [
+            "/img/t-shirt-design-maker-featuring-an-astronaut-in-an-hourglass-3380a.png"
+        ],
+        "rating": 3.5,
+        "description": "Going through life in an hour glass",
+        "tags": [
+            "Cardigans"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac7a"
+        },
+        "title": "Gravity Gets Me Down",
+        "price": 60,
+        "size": [
+            "XL",
+            "L",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-generator-with-an-astronaut-themed-surrealistic-graphic-3380g.png"
+        ],
+        "rating": 5,
+        "description": "Gravity always gets me down...How about you?",
+        "tags": [
+            "Trench Coats"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac7b"
+        },
+        "title": "High Society",
+        "price": 40,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S",
+            "XS"
+        ],
+        "images": [
+            "/img/t-shirt-design-template-featuring-futuristic-characters-3084.png  "
+        ],
+        "rating": 3.5,
+        "description": "This animated inspired shirt of high society",
+        "tags": [
+            "Cardigans"
+        ],
+        "color": [
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac7c"
+        },
+        "title": "Cultured Women",
+        "price": 65,
+        "size": [
+            "XL",
+            "L",
+            "M",
+            "S"
+        ],
+        "images": [
+            "/img/t-shirt-design-maker-featuring-an-illustration-of-a-cultured-woman-2276c.png"
+        ],
+        "rating": 3.5,
+        "description": "Laugh out loud...Friday is my second Favorite F-Word",
+        "tags": [
+            "Cardigans"
+        ],
+        "color": [
+            "blue",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac7d"
+        },
+        "title": "Smokin Goat",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P2.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print of a chillin goat is mowing a lawn of weed, while smoking. This will be a great addition to anyones art collection.",
+        "tags": [
+            "Shirts"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "yellow"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bb6b6936cfa75c4e50bac7e"
+        },
+        "title": "Camping Panda",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P3.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print of a colorful camping panda that is smoking some weed  will be a great addition to anyones are collection.",
+        "tags": [
+            "Polos"
+        ],
+        "color": [
+            "green",
+            "red",
+            " brown",
+            "black",
+            "white"
+        ]
+    },
+    {
+        "_id": {
+            "$oid": "5bc814bee7179a4377fdda4b"
+        },
+        "title": "Chillin Gator",
+        "price": 35,
+        "size": [
+            "M"
+        ],
+        "images": [
+            "/img/A1-P1.jpg"
+        ],
+        "rating": 5,
+        "description": "This 14x11 print of a grinning gator skating on his skateboard while smoking some weed. It will be a great addition to anyones are collection.",
+        "tags": [
+            "Polos"
+        ],
+        "color": [
+            "red",
+            "green",
+            "brown"
+        ]
+    }
+]
