@@ -8,6 +8,7 @@ import { Jumbotron, Container } from 'reactstrap';
 const styles = {
   bannerCoverPc: {
     backgroundImage: 'url("/images/banner-cover-pc.gif")',
+    
     backgroundSize: 'cover'
   },
   bannerCoverMobile: {
