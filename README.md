@@ -16,6 +16,9 @@ eCommerce website to purchase art and design clothing with original artwork prin
 
 ## Installation
 
+You will only need to install the modules and import your DB.
+You can run a demo collection from file 'democollections.json'
+
 npm i
 
 ## Resources
@@ -31,7 +34,6 @@ npm i
 
 - Source Code: (https://github.com/gerweckevan/test-commerce.git)
 
-
 ## Contributors
 
 - Evan Gerweck ~ Github: [gerweckevan](https://github.com/gerweckevan)
@@ -42,4 +44,3 @@ npm i
 ## Version
 
 1.0
-

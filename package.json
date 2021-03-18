@@ -4,13 +4,13 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "start": "NODE_ENV=production && npm run start:prod",
+    "start": "if-env NODE_ENV=production && npm run start:prod || npm run start:dev",
+    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\"",
     "start:dev": "concurrently \"nodemon --ignore 'client/*'\" \"npm run client\"",
     "start:prod": "node index.js",
     "heroku-postbuild": "cd client && npm run build",
     "client": "cd client && npm run start",
-    "server": "nodemon index.js",
-    "dev": "concurrently --kill-others-on-fail \"npm run server\" \"npm run client\""
+    "server": "nodemon index.js"
   },
   "dependencies": {
     "axios": "^0.21.1",
@@ -21,6 +21,8 @@
     "compression": "1.7.3",
     "dotenv": "^6.1.0",
     "express": "^4.17.1",
+    "google-auth-library": "^7.0.2",
+    "if-env": "^1.0.4",
     "jwt-simple": "0.5.5",
     "mongoose": "^5.12.0",
     "morgan": "1.9.1",
