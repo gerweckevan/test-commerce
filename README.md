@@ -1,8 +1,8 @@
-<img src = "#" alt="#">
+<img src = ".\client\public\images\Homepage.png" alt="Homepage">
 
 ## Project Description
 
-LoremIpsum
+eCommerce website to purchase art and design clothing with original artwork printed it.
 
 ## Directory
 
@@ -27,11 +27,10 @@ npm i
 
 ## Links
 
-- Gitub: #
+- Deployed: (https://commerce-cad.herokuapp.com/)
 
-- Source Code: https://github.com/gerweckevan/test-commerce.git
+- Source Code: (https://github.com/gerweckevan/test-commerce.git)
 
-- Heroku: #
 
 ## Contributors
 
