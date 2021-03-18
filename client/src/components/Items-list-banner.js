@@ -14,20 +14,21 @@ const propTypes = {
 
 const styles = {
   bannerCoverMenPc: {
-    backgroundImage: 'url("../img/A1-P4.jpg")',
-    backgroundSize: "cover",
+
+    backgroundImage: "/img/A1-P4.jpg",
+    backgroundSize: 'cover'
   },
   bannerCoverWomenPc: {
-    backgroundImage: 'url("./images/cad-logo.jpg")',
-    backgroundSize: "cover",
+    backgroundImage: '/img/anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png',
+    backgroundSize: 'cover'
   },
   bannerCoverMenMobile: {
-    backgroundImage: 'url("../img/A2-P1.jpg")',
-    backgroundSize: "cover",
+    backgroundImage: "/img/A2-P1.jpg",
+    backgroundSize: 'cover'
   },
   bannerCoverWomenMobile: {
-    backgroundImage: 'url("../images/cad-logo-mobile.jpg")',
-    backgroundSize: "cover",
+    backgroundImage: '/img/anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png',
+    backgroundSize: 'cover'
   },
   textBanner: {
     textShadow: "3px 3px 3px grey",
@@ -65,9 +66,9 @@ const ItemsListBanner = ({
   return (
     <Jumbotron style={backgroundJumbotron}>
       <Container style={textBanner}>
-        <h1 className="display-3" style={titleH1Pc}>
-          {gender === "men" ? "Men" : "Women"}
-        </h1>
+
+        <h1 className="display-3" style={titleH1Pc}>{gender === 'men' ? 'Artwork' : 'Merchandise'}</h1>
+
         <ItemsListHtagsLabels
           reducerPriceRangeFilter={reducerPriceRangeFilter}
           sortArgsForFilter={sortArgsForFilter}

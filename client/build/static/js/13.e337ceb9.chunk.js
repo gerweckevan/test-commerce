@@ -23,25 +23,25 @@
         d = [
           {
             imgSrc:
-              "https://images.unsplash.com/photo-1490367532201-b9bc1dc483f6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=717ae13fa0e515d1c7c9e92456439845&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+              "/img/A2-P4.jpg",
             cardTitle: "Polos",
             linkCategory: "Polos",
           },
           {
             imgSrc:
-              "https://images.unsplash.com/photo-1530856021941-02c71be5926f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8d29673aa02db77423cf5ca770bd6d8e&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+              "/img/A2-P11.jpg",
             cardTitle: "Shirts",
             linkCategory: "Shirts",
           },
           {
             imgSrc:
-              "https://images.unsplash.com/photo-1421986386270-978ed214ec60?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0f6cec57034960f50caf64c5af9c26d4&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+              "/img/A1-P7.jpg",
             cardTitle: "Pants",
             linkCategory: "Pants",
           },
           {
             imgSrc:
-              "https://images.unsplash.com/photo-1530856021941-02c71be5926f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=8d29673aa02db77423cf5ca770bd6d8e&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+              "/img/A1-P9.jpg",
             cardTitle: "Jackets",
             linkCategory: "Jackets",
           },
@@ -49,25 +49,25 @@
         l = [
           {
             imgSrc:
-              "https://images.unsplash.com/photo-1472746729193-36ad213ac4a5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=27aecaf25f31cf45d2de3ad774dad6ed&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+              "/img5/cartoonish-t-shirt-design-creator-with-a-smoking-gangster-4005d.png",
             cardTitle: "Dresses",
             linkCategory: "Dresses",
           },
           {
             imgSrc:
-              "https://images.unsplash.com/photo-1485527691629-8e370684924c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d6f450a6506599df62dc29593779a1b3&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+              "/img5/crop-top-hoodie-mockup-featuring-a-woman-in-a-streetwear-outfit-m641 (1).png",
             cardTitle: "Cardigans",
             linkCategory: "Cardigans",
           },
           {
             imgSrc:
-              "https://images.unsplash.com/photo-1518622358385-8ea7d0794bf6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=42226a7bf3b99eec89267859b4f36114&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+              "/img5/long-sleeve-t-shirt-mockup-of-a-man-with-sunglasses-m531 (1).png",
             cardTitle: "Tops",
             linkCategory: "Tops",
           },
           {
             imgSrc:
-              "https://images.unsplash.com/photo-1508445861827-7711f397113a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9b8561c6e78192892aae3c6943928c93&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+              "/img5/round-neck-tee-mockup-featuring-a-man-with-sunglasses-by-a-truck-m535.png",
             cardTitle: "Trench Coats",
             linkCategory: "Trench Coats",
           },

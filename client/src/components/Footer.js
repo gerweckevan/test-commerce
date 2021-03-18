@@ -14,6 +14,7 @@ const Footer = () => (
     <Container>
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingBottom: "30px" }}>
+
           <b>Talk to us</b>
         </Col>
       </Row>
@@ -57,6 +58,7 @@ const Footer = () => (
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingTop: "30px" }}>
           Virtual Boost © 2021 All Rights Reserved
+
         </Col>
       </Row>
     </Container>

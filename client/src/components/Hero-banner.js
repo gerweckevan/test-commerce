@@ -6,9 +6,11 @@ import { Jumbotron, Container } from "reactstrap";
 
 const styles = {
   bannerCoverPc: {
+
     backgroundImage: 'url("/images/banner-cover-pc.gif")',
 
     backgroundSize: "cover",
+
   },
   bannerCoverMobile: {
     backgroundImage: 'url("/images/banner-cover-mobile.gif")',
@@ -45,6 +47,7 @@ const HeroBanner = () => (
   <Jumbotron fluid style={isMobile ? bannerCoverMobile : bannerCoverPc}>
     <Container fluid style={{ height: "300px" }}>
       <div style={textBanner}>
+
 
         <h1 className="display-3" style={isMobile ? titleH1Mobile : titleH1Pc}>
           Creative Artist Design

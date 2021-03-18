@@ -31,12 +31,12 @@ const styles = {
 
 const categoriesMenData = [
   {
-    imgSrc: "/img3/A1-P1.jpg",
+    imgSrc: "/img3/A2-P12.jpg",
     cardTitle: 'Polos',
     linkCategory: 'Polos'
   },
   {
-    imgSrc: "/img3/A1-P5.jpg",
+    imgSrc: "/img/A1-P4.jpg",
     cardTitle: 'Shirts',
     linkCategory: 'Shirts'
   },
@@ -46,7 +46,7 @@ const categoriesMenData = [
     linkCategory: 'Pants'
   },
   {
-    imgSrc: "/img3/A2-P12.jpg",
+    imgSrc: "/img3/A1-P1.jpg",
     cardTitle: 'Jackets',
     linkCategory: 'Jackets'
   }
@@ -54,22 +54,22 @@ const categoriesMenData = [
 
 const categoriesWomenData = [
   {
-    imgSrc: 'https://images.unsplash.com/photo-1472746729193-36ad213ac4a5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=27aecaf25f31cf45d2de3ad774dad6ed&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb',
+    imgSrc: "/img/anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png",
     cardTitle: 'Dresses',
     linkCategory: 'Dresses'
   },
   {
-    imgSrc: 'https://images.unsplash.com/photo-1485527691629-8e370684924c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d6f450a6506599df62dc29593779a1b3&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb',
+    imgSrc: "/img/t-shirt-design-maker-featuring-an-illustration-of-a-cultured-woman-2276c.png",
     cardTitle: 'Cardigans',
     linkCategory: 'Cardigans'
   },
   {
-    imgSrc: 'https://images.unsplash.com/photo-1518622358385-8ea7d0794bf6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=42226a7bf3b99eec89267859b4f36114&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb',
+    imgSrc: "/img/space-themed-t-shirt-design-template-with-a-retro-style-2255.png",
     cardTitle: 'Tops',
     linkCategory: 'Tops'
   },
   {
-    imgSrc: 'https://images.unsplash.com/photo-1508445861827-7711f397113a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9b8561c6e78192892aae3c6943928c93&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb',
+    imgSrc: "/img/t-shirt-design-generator-featuring-an-aggressive-shark-and-a-sardonic-quote-2335i.png",
     cardTitle: 'Trench Coats',
     linkCategory: 'Trench Coats'
   }
@@ -102,7 +102,7 @@ const ItemsListGenderHomepage = props => {
   return (
     <Container style={{ paddingTop: '30px', paddingBottom: '50px' }}>
       <Col md="12">
-        <h1 style={{ fontSize: '40px', textAlign: 'center', padding: '20px' }}>{gender.charAt(0).toUpperCase() + gender.slice(1)} selection</h1>
+        <h1 style={{ fontSize: '40px', textAlign: 'center', padding: '20px' }}>Lets Shop!</h1>
         <Row>
           {eachCategory(gender, oneKeywordForFilter)}
         </Row>
