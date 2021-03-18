@@ -14,26 +14,23 @@ const propTypes = {
 
 const styles = {
   bannerCoverMenPc: {
-
     backgroundImage: "/img/A1-P4.jpg",
-    backgroundSize: 'cover'
+    backgroundSize: "cover",
   },
   bannerCoverWomenPc: {
-
-    backgroundImage: 'url("../img/logo.jpg")',
+    backgroundImage:
+      'url("https://images.unsplash.com/photo-1519494762173-bc8ffa6ead7b?ixid=MXwxMjA3fDB8MHxwaG90[…]ufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80")',
     backgroundSize: "cover",
-
   },
   bannerCoverMenMobile: {
-    backgroundImage: "/img/A2-P1.jpg",
-    backgroundSize: 'cover'
+    backgroundImage:
+      'url("https://images.unsplash.com/photo-1519494762173-bc8ffa6ead7b?ixid=MXwxMjA3fDB8MHxwaG90[…]ufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1650&q=80")',
+    backgroundSize: "cover",
   },
   bannerCoverWomenMobile: {
-
     backgroundImage: 'url("../img/logo-jpg")',
 
     backgroundSize: "cover",
-
   },
   textBanner: {
     textShadow: "3px 3px 3px grey",
@@ -71,7 +68,6 @@ const ItemsListBanner = ({
   return (
     <Jumbotron style={backgroundJumbotron}>
       <Container style={textBanner}>
-
         <h1 className="display-3" style={titleH1Pc}>
           {gender === "men" ? "Artwork" : "Merchandise"}
         </h1>
