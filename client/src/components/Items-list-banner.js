@@ -26,7 +26,7 @@ const styles = {
     backgroundSize: "cover",
   },
   bannerCoverWomenMobile: {
-    backgroundImage: 'url("../img/logo-mobile.jpg")',
+    backgroundImage: 'url("../img/logo-jpg")',
     backgroundSize: "cover",
   },
   textBanner: {

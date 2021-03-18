@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "reactstrap";
 import signOut from "../storeConfig";
 const styles = {
-  backgroundColor: "#072a48",
+  backgroundColor: "purple",
   paddingTop: "50px",
   paddingBottom: "50px",
   color: "white",

@@ -36,7 +36,8 @@ const items = [
     },
   },
   {
-    src: "https://giphy.com/clips/Togethxr-togethxr-lW8XxDIKEIxb4gKbbq",
+    src:
+      "https://images.unsplash.com/photo-1470309864661-68328b2cd0a5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
     altText: "Slide 3",
     caption: "Slide 3",
     title: "Clothes for everyone",
