@@ -2,6 +2,7 @@ import React from "react";
 import { isMobile } from "react-device-detect";
 import ButtonLinkGenderPage from "./Button-link-gender-page";
 import { Jumbotron, Container } from "reactstrap";
+import banner from "../logo/logo.jpg";
 
 const styles = {
   bannerCoverPc: {

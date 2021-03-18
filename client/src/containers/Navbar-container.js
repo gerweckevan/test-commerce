@@ -175,14 +175,13 @@ class NavbarContainer extends Component {
           </Link>
           <NavbarToggler onClick={this.toggle} />
           <Collapse isOpen={isOpen} navbar>
-            {categoriesNavItems("men")}
-            {categoriesNavItems("women")}
+            {categoriesNavItems("artwork")}
+            {categoriesNavItems("merchandise")}
             {cartNavItem}
-            
           </Collapse>
           {Login}
 
-            {Logout}
+          {Logout}
         </Navbar>
         {subMenuHoverBrowser}
       </div>
