@@ -102,7 +102,7 @@ const ItemsListGenderHomepage = props => {
   return (
     <Container style={{ paddingTop: '30px', paddingBottom: '50px' }}>
       <Col md="12">
-        <h1 style={{ fontSize: '40px', textAlign: 'center', padding: '20px' }}>{gender.charAt(0).toUpperCase() + gender.slice(1)} selection</h1>
+        <h1 style={{ fontSize: '40px', textAlign: 'center', padding: '20px' }}>Lets Shop!</h1>
         <Row>
           {eachCategory(gender, oneKeywordForFilter)}
         </Row>

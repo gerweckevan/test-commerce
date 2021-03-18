@@ -7,8 +7,8 @@ import { Jumbotron, Container } from 'reactstrap';
 
 const styles = {
   bannerCoverPc: {
-    backgroundImage: 'url("/images/banner-cover-pc.gif")',
-    
+    backgroundImage: '/img/A2-P5.jpg',
+
     backgroundSize: 'cover'
   },
   bannerCoverMobile: {
@@ -38,12 +38,12 @@ const HeroBanner = () => (
   <Jumbotron fluid style={isMobile ? bannerCoverMobile : bannerCoverPc}>
     <Container fluid style={{ height: '300px' }}>
       <div style={textBanner}>
-        <h1 className="display-3" style={isMobile ? titleH1Mobile : titleH1Pc}>Fashion shop</h1>
-        <p>Cool shop</p>
+        <h1 className="display-3" style={isMobile ? titleH1Mobile : titleH1Pc}>Creative Artist Design</h1>
+        <p>T.O.T.W.</p>
       </div>
       <div style={centerButtons}>
-        <ButtonLinkGenderPage gender={'men'} content='shop Men' />
-        <ButtonLinkGenderPage gender={'women'} content='shop Women' />
+        <ButtonLinkGenderPage gender={'men'} content='Artwork' />
+        <ButtonLinkGenderPage gender={'women'} content='Merchandise' />
       </div>
     </Container>
   </Jumbotron>
