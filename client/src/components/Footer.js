@@ -14,7 +14,6 @@ const Footer = () => (
     <Container>
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingBottom: "30px" }}>
-
           <b>Talk to us</b>
         </Col>
       </Row>
@@ -40,12 +39,12 @@ const Footer = () => (
       <Row>
         <Col md="4">
           {" "}
-          <a href="#" target="_blank">
-            Order Status
+          <a href="https://creativeartistdesign.business/" target="_blank">
+            Meet the artist
           </a>
         </Col>
         <Col md="4">
-          <a href="#" target="_blank">
+          <a href="http://fakebsod.com/windows-8-and-10" target="_blank">
             Our ecological actions
           </a>
         </Col>
@@ -58,7 +57,6 @@ const Footer = () => (
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingTop: "30px" }}>
           Virtual Boost © 2021 All Rights Reserved
-
         </Col>
       </Row>
     </Container>
