@@ -5,6 +5,8 @@ import { Provider } from "react-redux";
 import Router from "./Router";
 import { Store } from "./storeConfig";
 import * as serviceWorker from './serviceWorker';
+import 'bootstrap/dist/css/bootstrap.css';
+
 
 
 ReactDOM.render(

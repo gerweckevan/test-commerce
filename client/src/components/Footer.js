@@ -5,7 +5,7 @@ const styles = {
   backgroundColor: "#072a48",
   paddingTop: "50px",
   paddingBottom: "50px",
-  color: "white",
+  color: "purple",
   textAlign: "center",
 };
 
@@ -14,27 +14,51 @@ const Footer = () => (
     <Container>
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingBottom: "30px" }}>
-          <b>Welcome</b>
+
+          <b>Talk to us</b>
         </Col>
       </Row>
       <Row>
-        <Col md="4">TOTW -Take Over The World</Col>
-        <Col md="4">Creative Artist Design</Col>
-        <Col md="4">We sell the best merchandise and artwork.</Col>
+        <Col md="4">
+          {" "}
+          <a href="#" target="_blank">
+            About the brand
+          </a>
+        </Col>
+        <Col md="4">
+          <a href="#" target="_blank">
+            Contact us
+          </a>
+        </Col>
+        <Col md="4">
+          {" "}
+          <a href="https://www.instagram.com/rekstotw/" target="_blank">
+            Instagram
+          </a>
+        </Col>
       </Row>
       <Row>
-        <Col md="4"></Col>
-        <Col md="4"></Col>
-        <Col md="4"></Col>
-      </Row>
-      <Row>
-        <Col md="4"></Col>
-        <Col md="4">Shop now and see our collections</Col>
-        <Col md="4"></Col>
+        <Col md="4">
+          {" "}
+          <a href="#" target="_blank">
+            Order Status
+          </a>
+        </Col>
+        <Col md="4">
+          <a href="#" target="_blank">
+            Our ecological actions
+          </a>
+        </Col>
+        <Col md="4">
+          <a href="https://www.facebook.com/reks.kadinger" target="_blank">
+            Facebook
+          </a>
+        </Col>
       </Row>
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingTop: "30px" }}>
-          Creative Artist Design © 2021 All Rights Reserved
+          Virtual Boost © 2021 All Rights Reserved
+
         </Col>
       </Row>
     </Container>

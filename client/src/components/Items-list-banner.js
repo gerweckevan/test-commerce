@@ -1,13 +1,8 @@
-import PropTypes from 'prop-types';
-import React from 'react'
-import {
-  Jumbotron,
-  Container,
-} from 'reactstrap';
-import {
-  isMobile
-} from "react-device-detect";
-import ItemsListHtagsLabels from './Items-list-htags-labels'
+import PropTypes from "prop-types";
+import React from "react";
+import { Jumbotron, Container } from "reactstrap";
+import { isMobile } from "react-device-detect";
+import ItemsListHtagsLabels from "./Items-list-htags-labels";
 
 const propTypes = {
   gender: PropTypes.string,
@@ -15,10 +10,11 @@ const propTypes = {
   sortArgsForFilter: PropTypes.string,
   sortSizeForFilter: PropTypes.string,
   keywordsForFilter: PropTypes.array,
-}
+};
 
 const styles = {
   bannerCoverMenPc: {
+
     backgroundImage: "/img/A1-P4.jpg",
     backgroundSize: 'cover'
   },
@@ -36,32 +32,43 @@ const styles = {
   },
   textBanner: {
     textShadow: "3px 3px 3px grey",
-    color: 'white'
+    color: "white",
   },
   titleH1Pc: {
-    fontSize: '80px'
-  }
-}
+    fontSize: "80px",
+  },
+};
 
 const ItemsListBanner = ({
   gender,
   reducerPriceRangeFilter,
   sortArgsForFilter,
   sortSizeForFilter,
-  keywordsForFilter
+  keywordsForFilter,
 }) => {
-
-  const { bannerCoverMenPc, bannerCoverMenMobile, bannerCoverWomenMobile, bannerCoverWomenPc, textBanner, titleH1Pc } = styles
+  const {
+    bannerCoverMenPc,
+    bannerCoverMenMobile,
+    bannerCoverWomenMobile,
+    bannerCoverWomenPc,
+    textBanner,
+    titleH1Pc,
+  } = styles;
   const backgroundJumbotron =
-    isMobile && gender === 'men' ? bannerCoverMenMobile :
-      isMobile && gender === 'women' ? bannerCoverWomenMobile :
-        isMobile === false && gender === 'men' ? bannerCoverMenPc :
-          bannerCoverWomenPc
+    isMobile && gender === "men"
+      ? bannerCoverMenMobile
+      : isMobile && gender === "women"
+      ? bannerCoverWomenMobile
+      : isMobile === false && gender === "men"
+      ? bannerCoverMenPc
+      : bannerCoverWomenPc;
 
   return (
     <Jumbotron style={backgroundJumbotron}>
       <Container style={textBanner}>
+
         <h1 className="display-3" style={titleH1Pc}>{gender === 'men' ? 'Artwork' : 'Merchandise'}</h1>
+
         <ItemsListHtagsLabels
           reducerPriceRangeFilter={reducerPriceRangeFilter}
           sortArgsForFilter={sortArgsForFilter}
@@ -70,7 +77,7 @@ const ItemsListBanner = ({
         />
       </Container>
     </Jumbotron>
-  )
+  );
 };
 
 ItemsListBanner.propTypes = propTypes;
