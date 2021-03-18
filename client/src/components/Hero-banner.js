@@ -2,7 +2,7 @@ import React from "react";
 //import stock1 from "../img/logo.jpg";
 //client\src\img\logo.jpg
 import { isMobile } from "react-device-detect";
-import ButtonLinkGenderPage from "./Button-link-gender-page";
+//import ButtonLinkGenderPage from "./Button-link-gender-page";
 import { Jumbotron, Container } from "reactstrap";
 
 const styles = {
@@ -16,7 +16,6 @@ const styles = {
     backgroundSize: "cover",
   },
   textBanner: {
-    backgroundImage: 'url("../images/logo.jpg")',
     textShadow: "3px 3px 3px grey",
     textAlign: "center",
     color: "white",
@@ -46,14 +45,13 @@ const HeroBanner = () => (
   <Jumbotron fluid style={isMobile ? bannerCoverMobile : bannerCoverPc}>
     <Container fluid style={{ height: "300px" }}>
       <div style={textBanner}>
-        <h1
-          className="display-3"
-          style={isMobile ? titleH1Mobile : titleH1Pc}
-        ></h1>
+        <h1 className="display-3" style={isMobile ? titleH1Mobile : titleH1Pc}>
+          Creative Artist Design
+        </h1>
       </div>
-      <div style={centerButtons}></div>
+      
     </Container>
   </Jumbotron>
 );
-<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>;
+
 export default HeroBanner;

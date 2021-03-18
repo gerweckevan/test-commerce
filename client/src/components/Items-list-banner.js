@@ -18,7 +18,7 @@ const styles = {
     backgroundSize: "cover",
   },
   bannerCoverWomenPc: {
-    backgroundImage: 'url("./images/cad-logo.jpg")',
+    backgroundImage: 'url("../img/logo.jpg")',
     backgroundSize: "cover",
   },
   bannerCoverMenMobile: {
@@ -26,7 +26,7 @@ const styles = {
     backgroundSize: "cover",
   },
   bannerCoverWomenMobile: {
-    backgroundImage: 'url("../images/cad-logo-mobile.jpg")',
+    backgroundImage: 'url("../img/logo-mobile.jpg")',
     backgroundSize: "cover",
   },
   textBanner: {
@@ -66,7 +66,7 @@ const ItemsListBanner = ({
     <Jumbotron style={backgroundJumbotron}>
       <Container style={textBanner}>
         <h1 className="display-3" style={titleH1Pc}>
-          {gender === "men" ? "Men" : "Women"}
+          {gender === "men" ? "Artwork" : "Merchandise"}
         </h1>
         <ItemsListHtagsLabels
           reducerPriceRangeFilter={reducerPriceRangeFilter}
