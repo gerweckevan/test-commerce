@@ -1,32 +1,46 @@
-# React/Node.js template (MERN stack) ecommerce (light bundle: 100ko).
+<img src = "#" alt="#">
 
-## Demo
+## Project Description
 
-https://demo-react-eco2.herokuapp.com/ 
+LoremIpsum
 
-https://demo-react-eco2.herokuapp.com/admin (user: admin, psw: admin)
+## Directory
 
-## Prerequisites
-
-Node.js, MongoDB and npm or yarn package manager are required
+- [Project Description](#project-description)
+- [Directory](#directory)
+- [Installation](#installation)
+- [Resources](#resources)
+- [Links](#links)
+- [Contributors](#contributors)
+- [Version](#version)
 
 ## Installation
-You will only need to install the modules and import your DB.
-You can run a demo collection from file 'democollections.json'
 
-Installing the modules & importing the products list DB:
+npm i
 
-```
-$ yarn
-$ cd client && yarn start
-import democollections.json
-setup your config.js file (secret JWT & Mongo URI)
-```
+## Resources
 
-## Features
-- cached DB for fast results
-- filters combinables bewteen each other 
-- validators
+- Express
+- MongoDB
+- React
+- Node.js
 
-## Other projects
-Wanna play with react and SVG/CSS animations? https://github.com/NielsDom/react-countries / [DEMO](https://countries-389d9.firebaseapp.com/)
+## Links
+
+- Gitub: #
+
+- Source Code: https://github.com/gerweckevan/test-commerce.git
+
+- Heroku: #
+
+## Contributors
+
+- Evan Gerweck ~ Github: [gerweckevan](https://github.com/gerweckevan)
+- Kristabell Johnson ~ Github: [Kristabell74](https://github.com/kristabell74)
+- Michael Hutchings ~ Github: [MHutchbot](https://github.com/mhutchbot)
+- Sterling Orth ~ Github: [SterlingOrth](https://github.com/sterlingorth)
+
+## Version
+
+1.0
+
