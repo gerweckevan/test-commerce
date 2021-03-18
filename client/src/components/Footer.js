@@ -18,19 +18,41 @@ const Footer = () => (
         </Col>
       </Row>
       <Row>
-        <Col md="4">About the brand</Col>
-        <Col md="4">Career</Col>
-        <Col md="4">Instagram</Col>
+        <Col md="4">
+          {" "}
+          <a href="#" target="_blank">
+            About the brand
+          </a>
+        </Col>
+        <Col md="4">
+          <a href="#" target="_blank">
+            Contact us
+          </a>
+        </Col>
+        <Col md="4">
+          {" "}
+          <a href="https://www.instagram.com/rekstotw/" target="_blank">
+            Instagram
+          </a>
+        </Col>
       </Row>
       <Row>
-        <Col md="4">Order status</Col>
-        <Col md="4">Our ecological actions</Col>
-        <Col md="4">Facebook</Col>
-      </Row>
-      <Row>
-        <Col md="4">Contact us</Col>
-        <Col md="4">I like Som tum</Col>
-        <Col md="4">Pinterest</Col>
+        <Col md="4">
+          {" "}
+          <a href="#" target="_blank">
+            Order Status
+          </a>
+        </Col>
+        <Col md="4">
+          <a href="#" target="_blank">
+            Our ecological actions
+          </a>
+        </Col>
+        <Col md="4">
+          <a href="https://www.facebook.com/reks.kadinger" target="_blank">
+            Facebook
+          </a>
+        </Col>
       </Row>
       <Row>
         <Col md="12" style={{ textAlign: "center", paddingTop: "30px" }}>
