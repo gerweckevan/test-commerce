@@ -25,7 +25,7 @@ mongoose.connection.on("error", () => {
 });
 const app = express();
 app.use(compression());
-app.use("/", require("./routes/router"));
+//app.use("/", require("./routes/router"));
 
 env !== "development" &&
   app.use(express.static(path.join(__dirname, "client/build")));

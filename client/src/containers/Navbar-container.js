@@ -9,6 +9,7 @@ import {
 import { selectorTotalItemsCart } from "../selectors/selector_list_statistics";
 import CheckoutMiniSummaryPreview from "../components/Checkout-mini-summary-preview";
 import Submenu from "../components/Submenu";
+
 // import Logout from "../components/Logout";
 // import Login from "../components/Login";
 import {
@@ -174,9 +175,10 @@ class NavbarContainer extends Component {
             Home
           </Link>
           <NavbarToggler onClick={this.toggle} />
-          <Collapse isOpen={isOpen} navbar>
-            {categoriesNavItems("men")}
-            {categoriesNavItems("women")}
+          
+          <Collapse  navbar>
+            {categoriesNavItems("Merch")}
+
             {cartNavItem}
           </Collapse>
           <meta
