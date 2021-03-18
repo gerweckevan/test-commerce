@@ -19,16 +19,20 @@ const styles = {
     backgroundSize: 'cover'
   },
   bannerCoverWomenPc: {
-    backgroundImage: '/img/anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png',
-    backgroundSize: 'cover'
+
+    backgroundImage: 'url("../img/logo.jpg")',
+    backgroundSize: "cover",
+
   },
   bannerCoverMenMobile: {
     backgroundImage: "/img/A2-P1.jpg",
     backgroundSize: 'cover'
   },
   bannerCoverWomenMobile: {
-    backgroundImage: '/img/anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png',
-    backgroundSize: 'cover'
+
+    backgroundImage: 'url("../img/logo-mobile.jpg")',
+    backgroundSize: "cover",
+
   },
   textBanner: {
     textShadow: "3px 3px 3px grey",
@@ -67,7 +71,9 @@ const ItemsListBanner = ({
     <Jumbotron style={backgroundJumbotron}>
       <Container style={textBanner}>
 
-        <h1 className="display-3" style={titleH1Pc}>{gender === 'men' ? 'Artwork' : 'Merchandise'}</h1>
+        <h1 className="display-3" style={titleH1Pc}>
+          {gender === "men" ? "Artwork" : "Merchandise"}
+        </h1>
 
         <ItemsListHtagsLabels
           reducerPriceRangeFilter={reducerPriceRangeFilter}
