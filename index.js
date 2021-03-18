@@ -26,7 +26,7 @@ mongoose.connection.on("error", () => {
 const app = express();
 app.use(compression());
 
-app.use("/", require("./routes/router"));
+//app.use("/", require("./routes/router/login"));
 
 
 env !== "development" &&

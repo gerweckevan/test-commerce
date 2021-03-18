@@ -128,12 +128,6 @@ const ItemsList = ({
             title="source: imgur.com"
           />
         </a>
-        <a href="https://imgur.com/lF2L481">
-          <img
-            src="https://i.imgur.com/lF2L481b.jpg"
-            title="source: imgur.com"
-          />
-        </a>
         <a href="https://imgur.com/SIB1mz4">
           <img
             src="https://i.imgur.com/SIB1mz4b.jpg"
@@ -275,12 +269,6 @@ const ItemsList = ({
         <a href="https://imgur.com/fzAoTNw">
           <img
             src="https://i.imgur.com/fzAoTNwb.png"
-            title="source: imgur.com"
-          />
-        </a>
-        <a href="https://imgur.com/98jMCaJ">
-          <img
-            src="https://i.imgur.com/98jMCaJb.png"
             title="source: imgur.com"
           />
         </a>

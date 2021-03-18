@@ -29,23 +29,27 @@ const styles = {
 
 const categoriesMenData = [
   {
-    imgSrc: "/img3/A2-P12.jpg",
+
+    imgSrc: "/img3/A1-P1.jpg",
     cardTitle: "",
     linkCategory: "Polos",
   },
   {
-    imgSrc: "/img/A1-P4.jpg",
+    imgSrc: "/img3/A1-P5.jpg",
     cardTitle: "",
+
     linkCategory: "Shirts",
   },
   {
     imgSrc: "/img3/A2-P10.jpg",
+
     cardTitle: "",
-    linkCategory: "",
+    linkCategory: "Pants",
   },
   {
-    imgSrc: "/img3/A1-P1.jpg",
+    imgSrc: "/img3/A2-P12.jpg",
     cardTitle: "",
+
     linkCategory: "Jackets",
   },
 ];
@@ -53,25 +57,33 @@ const categoriesMenData = [
 const categoriesWomenData = [
   {
     imgSrc:
-      "/img/anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png",
+
+      "https://images.unsplash.com/photo-1472746729193-36ad213ac4a5?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=27aecaf25f31cf45d2de3ad774dad6ed&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+
     cardTitle: "Dresses",
     linkCategory: "Dresses",
   },
   {
     imgSrc:
-      "/img/t-shirt-design-maker-featuring-an-illustration-of-a-cultured-woman-2276c.png",
+
+      "https://images.unsplash.com/photo-1485527691629-8e370684924c?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=d6f450a6506599df62dc29593779a1b3&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+
     cardTitle: "Cardigans",
     linkCategory: "Cardigans",
   },
   {
     imgSrc:
-      "/img/space-themed-t-shirt-design-template-with-a-retro-style-2255.png",
+
+      "https://images.unsplash.com/photo-1518622358385-8ea7d0794bf6?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=42226a7bf3b99eec89267859b4f36114&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+
     cardTitle: "Tops",
     linkCategory: "Tops",
   },
   {
     imgSrc:
-      "/img/t-shirt-design-generator-featuring-an-aggressive-shark-and-a-sardonic-quote-2335i.png",
+
+      "https://images.unsplash.com/photo-1508445861827-7711f397113a?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=9b8561c6e78192892aae3c6943928c93&dpr=1&auto=format&fit=crop&w=1000&q=80&cs=tinysrgb",
+
     cardTitle: "Trench Coats",
     linkCategory: "Trench Coats",
   },
@@ -88,7 +100,9 @@ const eachCategory = (gender, oneKeywordForFilter) =>
           style={styles.cardBtn}
           onClick={() => oneKeywordForFilter(x.cardTitle)}
         >
-          <Link to={`/productslist/${gender}/`}>
+
+          <Link to={`/productslist/Merch/`}>
+
             <CardImg
               src={x.imgSrc}
               alt="Card image cap"

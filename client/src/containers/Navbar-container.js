@@ -10,8 +10,8 @@ import { selectorTotalItemsCart } from "../selectors/selector_list_statistics";
 import CheckoutMiniSummaryPreview from "../components/Checkout-mini-summary-preview";
 import Submenu from "../components/Submenu";
 
-import Logout from "../components/Logout";
-import Login from "../components/Login";
+//import Logout from "../components/Logout";
+//import Login from "../components/Login";
 import {
   Collapse,
   Navbar,
@@ -183,14 +183,14 @@ class NavbarContainer extends Component {
 
             {cartNavItem}
           </Collapse>
-          <meta
+          {/* <meta
             name="google-signin-client_id"
             content="652868653239-hji64o0nglv3p8h8e4j76n09pjoa1rv5.apps.googleusercontent.com.apps.googleusercontent.com"
           ></meta>
           <div class="g-signin2" data-onsuccess="onSignIn"></div>
           {Login}
 
-          {Logout}
+          {Logout} */}
         </Navbar>
         {subMenuHoverBrowser}
       </div>

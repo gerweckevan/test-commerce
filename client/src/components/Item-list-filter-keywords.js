@@ -43,7 +43,7 @@ class ItemsListFilterKeywords extends Component {
         <li style={{listStyleType: 'none'}} key={x}>
         <div className="pretty p-default p-smooth">
           {/* Empty onChange to avoid unrelevant msg error */}
-          <input type="checkbox" onClick={()=>keywordsSelectAction(x)} checked={stateIncludesCategory(x)} onChange={()=>{}}/>
+          <input type="checkbox" onClick={()=>keywordsSelectAction(x)} checked={stateIncludesCategory(x)} Empty onChange={()=>{}}/>
           <div className="state p-success-o">
               <label>{x}</label>
           </div>

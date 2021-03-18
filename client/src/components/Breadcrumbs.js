@@ -1,3 +1,4 @@
+
 import PropTypes from 'prop-types';
 import React, { Fragment } from 'react';
 import { Container, Row, Col } from 'reactstrap';
@@ -5,7 +6,6 @@ import { isMobile } from "react-device-detect";
 import { Link } from 'react-router-dom';
 import ButtonSorter from './Button-sorter';
 import ButtonFilterMobile from './Button-filter-mobile';
-
 
 const propTypes = {
   gender: PropTypes.string,
@@ -44,44 +44,45 @@ const Breadcrumbs = ({
   keywordsForFilter,
   actionPriceRangeFilter,
   reducerPriceRangeFilter,
-  listLength
+  listLength,
 }) => {
 
   const styles = {
     containerPcScreen: {
-      height: '80px',
+      height: "80px",
       backgroundColor: backgroundColor,
       marginTop: marginTop,
       color: textColor,
-      display: 'flex',
-      justifyContent: 'left',
-      alignItems: 'center'
+      display: "flex",
+      justifyContent: "left",
+      alignItems: "center",
     },
     containerMobileScreen: {
-      height: '100px',
+      height: "100px",
       backgroundColor: backgroundColor,
       marginTop: marginTop,
       color: textColor,
-      display: 'flex',
-      justifyContent: 'left',
-      alignItems: 'center'
+      display: "flex",
+      justifyContent: "left",
+      alignItems: "center",
     },
     sortBtnMobileScreen: {
-      display: 'flex',
-      justifyContent: 'center',
-      alignItems: 'center'
+      display: "flex",
+      justifyContent: "center",
+      alignItems: "center",
     },
     linkColor: {
-      color: textColor
-    }
-  }
 
-  const sortBtn =
-    showSortBtn &&
-    <Col sm={{ size: 'auto', offset: 6 }} style={styles.sortBtnMobileScreen}>
-      {showFilterBtn &&
+      color: textColor,
+    },
+  };
+
+  const sortBtn = showSortBtn && (
+    <Col sm={{ size: "auto", offset: 6 }} style={styles.sortBtnMobileScreen}>
+      {showFilterBtn && (
         <ButtonFilterMobile
-          buttonLabel='Filter the list'
+          buttonLabel="Filter the list"
+
           gender={gender}
           dispatchSize={dispatchSize}
           sortSizeForFilter={sortSizeForFilter}
@@ -92,22 +93,48 @@ const Breadcrumbs = ({
           reducerPriceRangeFilter={reducerPriceRangeFilter}
           listLength={listLength}
         />
-      }
+
+      )}
+
       <ButtonSorter
         dispatchToSortList={dispatchToSortList}
         sortArgsForFilter={sortArgsForFilter}
       />
     </Col>
 
+  );
+
+  const genderLink = gender && (
+    <Fragment>
+      <Link style={styles.linkColor} to={`/category/${gender}`}>{` ${
+        gender && gender.charAt(0).toUpperCase() + gender.substr(1)
+      }'s Apparels`}</Link>{" "}
+    </Fragment>
+  );
+  const selectedItem =
+    selectedCategory.length === 1
+      ? " " + selectedCategory
+      : selectedCategory.length > 1
+      ? " Multiple criterias"
+      : " Category selection";
+
+
   const genderLink = gender && <Fragment><Link style={styles.linkColor} to={`/category/${gender}`}>Inventory</Link> ></Fragment>;
   const selectedItem = selectedCategory.length === 1 ? ' ' + selectedCategory : selectedCategory.length > 1 ? ' Multiple criterias' : ' Category'
+
   return (
-    <div style={isMobile ? styles.containerMobileScreen : styles.containerPcScreen}>
+    <div
+      style={isMobile ? styles.containerMobileScreen : styles.containerPcScreen}
+    >
       <Container>
         <Row>
-          <Col sm={{ size: 'auto' }}>
+
+          <Col sm={{ size: "auto" }}>
+
             <div>
-              <Link style={styles.linkColor} to="/">Home </Link> >
+              <Link style={styles.linkColor} to="/">
+                Home{" "}
+              </Link>
               {genderLink}
               <span>{selectedItem}</span>
             </div>
@@ -117,7 +144,7 @@ const Breadcrumbs = ({
       </Container>
     </div>
   );
-}
+};
 
 Breadcrumbs.propTypes = propTypes;
 
