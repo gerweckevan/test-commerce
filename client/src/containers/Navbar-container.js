@@ -176,8 +176,10 @@ class NavbarContainer extends Component {
           </Link>
           <NavbarToggler onClick={this.toggle} />
 
+
           <Collapse navbar>
             {categoriesNavItems("Merch")}
+
 
             {cartNavItem}
           </Collapse>

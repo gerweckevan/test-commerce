@@ -9,7 +9,9 @@ const Homepage = () => (
   <div>
     <Helmet>
       <title>Creative Artist Design</title>
-      <meta name="description" />
+
+      <meta name="description" content="Homepage" />
+
     </Helmet>
     <HeroBanner />
     <div style={styles}>

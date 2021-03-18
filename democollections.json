@@ -1,7 +1,7 @@
 [
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac5e"
+            "ObjectId": "5bb6b6936cfa75c4e50bac5e"
         },
         "title": "12 Zodiac Leo",
         "price": 35,
@@ -27,7 +27,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac5f"
+            "ObjectId": "5bb6b6936cfa75c4e50bac5f"
         },
         "title": "12 Zodiac Taurus",
         "price": 35,
@@ -53,7 +53,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac60"
+            "ObjectId": "5bb6b6936cfa75c4e50bac60"
         },
         "title": "12 Zodiac Gemini",
         "price": 35,
@@ -64,7 +64,7 @@
             "/img/A2-P3.jpg"
         ],
         "rating": 5,
-        "description": "This 14x11 print of the Gemini sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "This 14x11 print of the Gemini sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to any ones art collection.",
         "tags": [
             "Polos"
         ],
@@ -79,7 +79,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac61"
+            "ObjectId": "5bb6b6936cfa75c4e50bac61"
         },
         "title": "12 Zodiac Virgo",
         "price": 35,
@@ -90,7 +90,7 @@
             "/img/A2-P6.jpg"
         ],
         "rating": 5,
-        "description": "The 14x11 print of the Virgo sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "The 14x11 print of the Virgo sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to any ones art collection.",
         "tags": [
             "Pants"
         ],
@@ -105,7 +105,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac62"
+            "ObjectId": "5bb6b6936cfa75c4e50bac62"
         },
         "title": "12 Zodiac Cancer",
         "price": 35,
@@ -116,7 +116,7 @@
             "/img/A2-P4.jpg"
         ],
         "rating": 5,
-        "description": "This 14x11 print of the Cancer sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "This 14x11 print of the Cancer sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to any ones art collection.",
         "tags": [
             "Jackets"
         ],
@@ -132,7 +132,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac63"
+            "ObjectId": "5bb6b6936cfa75c4e50bac63"
         },
         "title": "12 Zodiac Scorpio",
         "price": 35,
@@ -143,7 +143,7 @@
             "/img/A2-P8.jpg"
         ],
         "rating": 5,
-        "description": "The 14x11 Scorpio print represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "The 14x11 Scorpio print represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to any ones art collection.",
         "tags": [
             "Shirts"
         ],
@@ -158,7 +158,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac64"
+            "ObjectId": "5bb6b6936cfa75c4e50bac64"
         },
         "title": "12 Zodiac Libra",
         "price": 35,
@@ -169,7 +169,7 @@
             "/img/A2.jpg"
         ],
         "rating": 5,
-        "description": "The 14x11 print of the Libra sign represents its zodiac sign purposly and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
+        "description": "The 14x11 print of the Libra sign represents its zodiac sign purposely and clearly. The whole collection is a site to see and will make anyone want to collect the whole series. Collect all 12 signs of the zodiac.  These prints will be a great addition to anyones art collection.",
         "tags": [
             "Jackets"
         ],
@@ -184,7 +184,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac65"
+            "ObjectId": "5bb6b6936cfa75c4e50bac65"
         },
         "title": "12 Zodiac Aries",
         "price": 35,
@@ -210,7 +210,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac66"
+            "ObjectId": "5bb6b6936cfa75c4e50bac66"
         },
         "title": "12 Zodiac Aquarius",
         "price": 35,
@@ -236,7 +236,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac67"
+            "ObjectId": "5bb6b6936cfa75c4e50bac67"
         },
         "title": "Wizard of Weed",
         "price": 35,
@@ -258,7 +258,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac68"
+            "ObjectId": "5bb6b6936cfa75c4e50bac68"
         },
         "title": "Banana Kush",
         "price": 35,
@@ -283,7 +283,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac69"
+            "ObjectId": "5bb6b6936cfa75c4e50bac69"
         },
         "title": "Maiden of Sweet Nothings",
         "price": 40,
@@ -294,7 +294,7 @@
             "S"
         ],
         "images": [
-            "/img/t-shirts-anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png"
+            "/img/anime-inspired-t-shirt-design-template-with-a-cute-maid-illustrations-2294n.png"
         ],
         "rating": 4,
         "description": "This is a cute anime inspired maid t-shirt",
@@ -307,7 +307,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac6a"
+            "ObjectId": "5bb6b6936cfa75c4e50bac6a"
         },
         "title": "Error 404",
         "price": 40,
@@ -318,7 +318,7 @@
             "XS"
         ],
         "images": [
-            "/img/t-shirts-bizarre-t-shirt-design-generator-with-an-anime-inspired-graphic-3328c.png"
+            "/img/bizarre-t-shirt-design-generator-with-an-anime-inspired-graphic-3328c.png"
         ],
         "rating": 4,
         "description": "This is a bizarre internal server error shirt",
@@ -331,7 +331,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac6b"
+            "ObjectId": "5bb6b6936cfa75c4e50bac6b"
         },
         "title": "Foxy Roxy Working",
         "price": 35,
@@ -357,7 +357,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac6c"
+            "ObjectId": "5bb6b6936cfa75c4e50bac6c"
         },
         "title": "Smoking Gangster",
         "price": 40,
@@ -367,7 +367,7 @@
             "S"
         ],
         "images": [
-            "/img/t-shirts-cartoonish-t-shirt-design-creator-with-a-smoking-gangster-4005c.png"
+            "/img/cartoonish-t-shirt-design-creator-with-a-smoking-gangster-4005c.png"
         ],
         "rating": 5,
         "description": "This t-shirt is of a smoking gangster.",
@@ -380,7 +380,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac6d"
+            "ObjectId": "5bb6b6936cfa75c4e50bac6d"
         },
         "title": "Baking Edibles",
         "price": 35,
@@ -391,7 +391,7 @@
             "/img/A1-P5.jpg"
         ],
         "rating": 5,
-        "description": "This 14x11 print of beautiful woman baking some edibles. With a flag in her and and a muffin on her head she is ready to realax.  This print will be a great addition to anyones art collection.",
+        "description": "This 14x11 print of beautiful woman baking some edibles. With a flag in her and and a muffin on her head she is ready to relax.  This print will be a great addition to anyones art collection.",
         "tags": [
             "Shirts"
         ],
@@ -405,7 +405,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac6e"
+            "ObjectId": "5bb6b6936cfa75c4e50bac6e"
         },
         "title": "King Kush",
         "price": 35,
@@ -430,7 +430,7 @@
     },
     {
         "_id": {
-            "$oid": "604aa977a6f405c77f418f54"
+            "ObjectId": "604aa977a6f405c77f418f54"
         },
         "title": "Cackling Hyena",
         "price": 35,
@@ -455,7 +455,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac6f"
+            "ObjectId": "5bb6b6936cfa75c4e50bac6f"
         },
         "title": "Anguished Tomato",
         "price": 40,
@@ -466,7 +466,7 @@
             "S"
         ],
         "images": [
-            "/img/t-shirts-illustrated-t-shirt-design-creator-featuring-an-anguished-tomato-3325c.png"
+            "/img/illustrated-t-shirt-design-creator-featuring-an-anguished-tomato-3325c.png"
         ],
         "rating": 4.5,
         "description": "The tomatoes age old Question...Is a tomato a fruit or a vegetable?",
@@ -480,7 +480,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac70"
+            "ObjectId": "5bb6b6936cfa75c4e50bac70"
         },
         "title": "Welcome to Mars",
         "price": 40,
@@ -491,7 +491,7 @@
             "XS"
         ],
         "images": [
-            "/img/t-shirts-space-themed-t-shirt-design-template-with-a-retro-style-2255.png"
+            "/img/space-themed-t-shirt-design-template-with-a-retro-style-2255.png"
         ],
         "rating": 4.5,
         "description": "The Astronaut on mars is a great but simple shirt.",
@@ -505,7 +505,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac71"
+            "ObjectId": "5bb6b6936cfa75c4e50bac71"
         },
         "title": "Born This Way",
         "price": 40,
@@ -530,7 +530,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac72"
+            "ObjectId": "5bb6b6936cfa75c4e50bac72"
         },
         "title": "Astronaut Kitty",
         "price": 40,
@@ -555,7 +555,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac73"
+            "ObjectId": "5bb6b6936cfa75c4e50bac73"
         },
         "title": "Astro Dog",
         "price": 52,
@@ -579,7 +579,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac74"
+            "ObjectId": "5bb6b6936cfa75c4e50bac74"
         },
         "title": "My Shade of Purple",
         "price": 40,
@@ -604,7 +604,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac75"
+            "ObjectId": "5bb6b6936cfa75c4e50bac75"
         },
         "title": "Chaos",
         "price": 40,
@@ -630,7 +630,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac76"
+            "ObjectId": "5bb6b6936cfa75c4e50bac76"
         },
         "title": "Everything is OK",
         "price": 55,
@@ -656,7 +656,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac77"
+            "ObjectId": "5bb6b6936cfa75c4e50bac77"
         },
         "title": "Gathering Space",
         "price": 55,
@@ -682,7 +682,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac78"
+            "ObjectId": "5bb6b6936cfa75c4e50bac78"
         },
         "title": "Sick Planet",
         "price": 40,
@@ -707,7 +707,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac79"
+            "ObjectId": "5bb6b6936cfa75c4e50bac79"
         },
         "title": "The End is Near",
         "price": 25,
@@ -731,7 +731,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac7a"
+            "ObjectId": "5bb6b6936cfa75c4e50bac7a"
         },
         "title": "Gravity Gets Me Down",
         "price": 60,
@@ -745,7 +745,7 @@
             "/img/t-shirt-design-generator-with-an-astronaut-themed-surrealistic-graphic-3380g.png"
         ],
         "rating": 5,
-        "description": "Gravity always gets me down...How about you?",
+        "description": "Gravity gets me down...How about you?",
         "tags": [
             "Trench Coats"
         ],
@@ -756,7 +756,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac7b"
+            "ObjectId": "5bb6b6936cfa75c4e50bac7b"
         },
         "title": "High Society",
         "price": 40,
@@ -782,7 +782,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac7c"
+            "ObjectId": "5bb6b6936cfa75c4e50bac7c"
         },
         "title": "Cultured Women",
         "price": 65,
@@ -807,7 +807,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac7d"
+            "ObjectId": "5bb6b6936cfa75c4e50bac7d"
         },
         "title": "Smokin Goat",
         "price": 35,
@@ -831,7 +831,7 @@
     },
     {
         "_id": {
-            "$oid": "5bb6b6936cfa75c4e50bac7e"
+            "$ObjectId": "5bb6b6936cfa75c4e50bac7e"
         },
         "title": "Camping Panda",
         "price": 35,
@@ -856,7 +856,7 @@
     },
     {
         "_id": {
-            "$oid": "5bc814bee7179a4377fdda4b"
+            "ObjectId": "5bc814bee7179a4377fdda4b"
         },
         "title": "Chillin Gator",
         "price": 35,

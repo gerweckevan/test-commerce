@@ -17,10 +17,10 @@ const items = [
     src: "https://miro.medium.com/max/3840/1*wJt3v7Gs46uticTUj4y9zg.gif",
     altText: "Slide 1",
     caption: "Slide 1",
-    title: "Fashion is cool",
-    subtitle: "Check our nice collection",
+    title: "Artwork by Category",
+    subtitle: "Find your favorite",
     btn: {
-      content: "Go to the collection",
+      content: "Categories",
       link: "/category/men",
     },
   },
@@ -28,22 +28,24 @@ const items = [
     src: "https://media.giphy.com/media/xvRPIAtMwKQ2SlxKtx/giphy.gif",
     altText: "Slide 2",
     caption: "Slide 2",
-    title: "Check Out the Art Gallery",
-    subtitle: "Collections since 2008",
+    title: "What's New",
+    subtitle: "Check out the newest pieces!",
     btn: {
-      content: "Cool collection",
+      content: "New Stuff",
       link: "/category/men",
     },
   },
   {
     src:
+
       "https://images.unsplash.com/photo-1470309864661-68328b2cd0a5?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1950&q=80",
+
     altText: "Slide 3",
     caption: "Slide 3",
-    title: "Clothes for everyone",
-    subtitle: "Amazing clothes!",
+    title: "Design your gear",
+    subtitle: "Create your own look",
     btn: {
-      content: "Go to the collection",
+      content: "Design",
       link: "/category/men",
     },
   },

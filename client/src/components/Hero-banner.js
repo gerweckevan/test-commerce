@@ -1,6 +1,4 @@
 import React from "react";
-//import stock1 from "../img/logo.jpg";
-//client\src\img\logo.jpg
 import { isMobile } from "react-device-detect";
 //import ButtonLinkGenderPage from "./Button-link-gender-page";
 import { Jumbotron, Container } from "reactstrap";
@@ -49,9 +47,10 @@ const HeroBanner = () => (
           Creative Artist Design
         </h1>
       </div>
-      
     </Container>
   </Jumbotron>
 );
+
+<script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>;
 
 export default HeroBanner;

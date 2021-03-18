@@ -1,10 +1,11 @@
-import PropTypes from "prop-types";
-import React, { Fragment } from "react";
-import { Container, Row, Col } from "reactstrap";
+
+import PropTypes from 'prop-types';
+import React, { Fragment } from 'react';
+import { Container, Row, Col } from 'reactstrap';
 import { isMobile } from "react-device-detect";
-import { Link } from "react-router-dom";
-import ButtonSorter from "./Button-sorter";
-import ButtonFilterMobile from "./Button-filter-mobile";
+import { Link } from 'react-router-dom';
+import ButtonSorter from './Button-sorter';
+import ButtonFilterMobile from './Button-filter-mobile';
 
 const propTypes = {
   gender: PropTypes.string,
@@ -45,6 +46,7 @@ const Breadcrumbs = ({
   reducerPriceRangeFilter,
   listLength,
 }) => {
+
   const styles = {
     containerPcScreen: {
       height: "80px",
@@ -70,6 +72,7 @@ const Breadcrumbs = ({
       alignItems: "center",
     },
     linkColor: {
+
       color: textColor,
     },
   };
@@ -79,6 +82,7 @@ const Breadcrumbs = ({
       {showFilterBtn && (
         <ButtonFilterMobile
           buttonLabel="Filter the list"
+
           gender={gender}
           dispatchSize={dispatchSize}
           sortSizeForFilter={sortSizeForFilter}
@@ -89,12 +93,15 @@ const Breadcrumbs = ({
           reducerPriceRangeFilter={reducerPriceRangeFilter}
           listLength={listLength}
         />
+
       )}
+
       <ButtonSorter
         dispatchToSortList={dispatchToSortList}
         sortArgsForFilter={sortArgsForFilter}
       />
     </Col>
+
   );
 
   const genderLink = gender && (
@@ -110,13 +117,20 @@ const Breadcrumbs = ({
       : selectedCategory.length > 1
       ? " Multiple criterias"
       : " Category selection";
+
+
+  const genderLink = gender && <Fragment><Link style={styles.linkColor} to={`/category/${gender}`}>Inventory</Link> ></Fragment>;
+  const selectedItem = selectedCategory.length === 1 ? ' ' + selectedCategory : selectedCategory.length > 1 ? ' Multiple criterias' : ' Category'
+
   return (
     <div
       style={isMobile ? styles.containerMobileScreen : styles.containerPcScreen}
     >
       <Container>
         <Row>
+
           <Col sm={{ size: "auto" }}>
+
             <div>
               <Link style={styles.linkColor} to="/">
                 Home{" "}
