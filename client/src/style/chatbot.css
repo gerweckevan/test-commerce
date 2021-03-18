@@ -1,0 +1,7 @@
+.chatbot {
+  position: fixed;
+  bottom: 2px;
+  right: 2px;
+  z-index: 100;
+  opacity: 0.8;
+}

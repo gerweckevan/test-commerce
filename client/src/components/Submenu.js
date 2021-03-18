@@ -7,6 +7,7 @@ const propTypes = {
   sendOneKeyword: PropTypes.func.isRequired,
   gender: PropTypes.string.isRequired,
   itemsListByGender: PropTypes.array.isRequired,
+
   handleSubMenuExit: PropTypes.func.isRequired,
 };
 
@@ -27,6 +28,7 @@ const styles = {
   },
   subMenuCategories: {
     paddingTop: "70px",
+
   },
   subMenuCategoriesUl: {
     listStyleType: "none",
@@ -41,11 +43,14 @@ const Submenu = ({
   sendOneKeyword,
   gender,
   itemsListByGender,
+
   handleSubMenuExit,
+
 }) => (
   <div style={styles.subMenu} onMouseLeave={handleSubMenuExit}>
     <Row>
       <Col md="3">
+
         <img
           alt={gender}
           style={styles.subMenuImage}
@@ -72,6 +77,7 @@ const Submenu = ({
               </Link>
             </div>
           ))}
+
         </div>
       </Col>
     </Row>
