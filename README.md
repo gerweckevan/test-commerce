@@ -30,7 +30,7 @@ npm i
 
 ## Links
 
-- Deployed: (https://commerce-cad.herokuapp.com/)
+- Deployed: (https://test-commerce-23.herokuapp.com/)
 
 - Source Code: (https://github.com/gerweckevan/test-commerce.git)
 
